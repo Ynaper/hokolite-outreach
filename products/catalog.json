@@ -1,0 +1,3834 @@
+{
+  "version": "2026-10-12",
+  "brand": "HOKOLITE",
+  "sources": [
+    "shopify:https://hokolite.com/products.json",
+    "user:H:/work/kol/products/raw"
+  ],
+  "product_count": 67,
+  "products": [
+    {
+      "id": "hokolite-clakap-w7-work-light",
+      "sku": "7741",
+      "name": "CLAKAP W7 1000LM Rechargeable Magnetic Work Light for Garage & Car Repair",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 34.99,
+      "url": "https://hokolite.com/products/hokolite-clakap-w7-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/Hokolite_CLAKAP_W7_1000_lumen_rechargeable_work_light_for_garage_repair.jpg?v=1787537856",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "new-arrivals"
+      ],
+      "body_text": "Built for Garage Repairs, Inspections, and Everyday Work. \n From engine-bay checks and workshop repairs to camping and emergency backup, the CLAKAP W7 gives you spotlight, COB work light, and low-output SMD lighting in one rechargeable folding design. \n• \n 1000 Lumen XPL Spotlight: Use the front XPL beam for longer-distance lighting, inspections, and focused repair tasks. \n• \n 800 Lumen COB Work Light: Switch to the side COB panel for broader area lighting when working around cars, benches, toolboxes, or dark corners. \n• \n 180° Rotating + 90° Folding Design: Adjust the lamp body to aim light where you need it, then fold it down for compact storage. \n• \n Magnetic Hands-Free Base: Attach the light to metal surfaces for stable hands-free lighting during garage work, auto repair, and maintenance tasks. \n• \n 4000mAh USB-C Rechargeable Power: The built-in 21700 battery, digital power display, and Type-C charging make it ready for longer work sessions and backup use. \n One work light. More ways to light the job.",
+      "bullets": [
+        "1000 Lumen XPL Spotlight: Use the front XPL beam for longer-distance lighting, inspections, and focused repair tasks.",
+        "800 Lumen COB Work Light: Switch to the side COB panel for broader area lighting when working around cars, benches, toolboxes, or dark corners.",
+        "180° Rotating + 90° Folding Design: Adjust the lamp body to aim light where you need it, then fold it down for compact storage.",
+        "Magnetic Hands-Free Base: Attach the light to metal surfaces for stable hands-free lighting during garage work, auto repair, and maintenance tasks.",
+        "4000mAh USB-C Rechargeable Power: The built-in 21700 battery, digital power display, and Type-C charging make it ready for longer work sessions and backup use."
+      ],
+      "published_at": "2026-08-24T10:39:16+08:00",
+      "source_ref": "shopify:products.json#9212906733810",
+      "observed_at": "2026-10-12",
+      "one_liner": "A folding magnetic work light with a 1000lm XPL spotlight and 800lm COB panel for garage and car repair.",
+      "key_specs": {
+        "lumens": 1000,
+        "battery_mah": 4000,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Magnetic hands-free base",
+          "benefit": "sticks to a toolbox, car hood, or bench so both hands stay free",
+          "scenarios": [
+            "auto_repair",
+            "garage",
+            "workshop"
+          ]
+        },
+        {
+          "point": "Dual beam: XPL spotlight + COB panel",
+          "benefit": "flip between a long-throw beam and a wide area light without a second tool",
+          "scenarios": [
+            "inspection",
+            "camping",
+            "power_outage"
+          ]
+        },
+        {
+          "point": "180° rotating, 90° folding body",
+          "benefit": "aim the light at the job, then fold it flat to store",
+          "scenarios": [
+            "inspection",
+            "garage"
+          ]
+        },
+        {
+          "point": "4000mAh USB-C with power display",
+          "benefit": "lasts a full work session and doubles as backup light",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "garage",
+        "auto_repair",
+        "workshop",
+        "inspection",
+        "camping",
+        "power_outage",
+        "emergency"
+      ],
+      "audience": [
+        "diy",
+        "mechanic",
+        "camper",
+        "prepper",
+        "edc",
+        "tradesman"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "NEBO"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-eguku-h1-headlamp",
+      "sku": "7844",
+      "name": "EGUKU H1 380LM Rechargeable Sensor Headlamp for Reading & Work",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "Head lamp",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-eguku-h1-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/Hokolite_EGUKU_H1_380_lumen_rechargeable_sensor_headlamp_for_work.jpg?v=1787290303",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "headlamps",
+        "new-arrivals"
+      ],
+      "body_text": "Built for Hands-Free Work, Reading, and Outdoor Tasks. \n From repair work and close-up reading to outdoor use and emergency backup, the EGUKU H1 gives you compact, rechargeable lighting with both button control and sensor control. \n 380 Lumen Dual-Light Output: White and warm light can work together for brighter coverage, or switch separately for different work, reading, and low-light needs. \n Motion Sensor Hands-Free Control: Press the sensor button and wave your hand near the sensor area to turn the light on or off without touching the lamp. \n Flip-Up Reading Light Mode: Raise the lid to activate reading light mode, then switch between high, medium, and low brightness for closer tasks. \n Red Light + Emergency Strobe: Red constant light supports night visibility, while red strobe helps with emergency signaling or warning use. \n USB-C Rechargeable IPX4 Design: The 1200mAh rechargeable battery, battery indicator, ABS+PC body, and IPX4 protection make it useful for daily work and outdoor backup lighting. \n One headlamp. More ways to work, read, and stay hands-free.",
+      "bullets": [],
+      "published_at": "2026-08-21T13:59:08+08:00",
+      "source_ref": "shopify:products.json#9208852250866",
+      "observed_at": "2026-10-12",
+      "one_liner": "A compact 380lm sensor headlamp with white and warm light for reading and hands-free work.",
+      "key_specs": {
+        "lumens": 380,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "White + warm light, button or sensor control",
+          "benefit": "warm light for reading, bright light for work, all hands-free",
+          "scenarios": [
+            "workshop",
+            "garage",
+            "camping"
+          ]
+        },
+        {
+          "point": "Compact and lightweight",
+          "benefit": "comfortable for long wear on the job or on the trail",
+          "scenarios": [
+            "night_hiking",
+            "dog_walking"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "workshop",
+        "garage",
+        "camping",
+        "night_hiking",
+        "dog_walking",
+        "power_outage"
+      ],
+      "audience": [
+        "diy",
+        "camper",
+        "hiker",
+        "homeowner"
+      ],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "t1-2060lm-hunting-flashlight",
+      "sku": "8888",
+      "name": "T1 - Three Color No Filters to Change 2060LM  Long Throw High-Performance Rechargeable Hunting Flashlight  for Outdoor & Hunting",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 99.99,
+      "url": "https://hokolite.com/products/t1-2060lm-hunting-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/HOKOLITE_T1_2000x2000_under_200KB.webp?v=1787729825",
+      "in_stock": false,
+      "tags": [],
+      "collections": [
+        "new-arrivals"
+      ],
+      "body_text": "Three Colors. One Hunting Flashlight. No Filters to Change. \n• \n Match Your Light to the Hunt—No Filters to Change: Switch between dedicated white, red and green LEDs with the side switch. From walking to your hunting spot to checking gear and scanning nearby terrain, choose your light without stopping to attach, remove or store a filter. \n• \n White Light for Finding Your Way & Searching the Terrain: Navigate the trail before dawn, scan your surroundings after sunset and find your way back to camp. Up to 2,060 lumens and a 388-meter beam distance provide powerful illumination when you need to see farther. \n• \n Red Light for Gear Checks at Your Hunting Spot: Locate equipment in your pack or check your setup before first light. The dedicated 250-lumen red light , with up to 56 meters of beam distance, puts red illumination a switch away. \n• \n Green Light for Scanning Nearby Terrain: Illuminate field edges, check the area around your hunting spot and observe your surroundings after dark. The dedicated 230-lumen green light delivers a beam distance of up to 74 meters , without an add-on filter. \n• \n Fast Controls for Every Stage of the Hunt: The tactical tail switch activates the light, the second tail switch adjusts output and accesses Strobe, and the side switch changes colors. Choose from 7 modes—Turbo, High, Medium, Low, Strobe, Red and Green —for trail navigation, gear checks and campsite tasks. \n• \n Rechargeable Power from Hunt to Camp: An included 21700 5000mAh rechargeable battery provides up to 243 hours of runtime , depending on the mode. USB-C charging and a battery-level indicator help you prepare for your next outing. \n• \n Built for Wet Trails & Demanding Hunts: A durable A6061-T6 aluminum body , IPX8 waterproofing , 1.5-meter drop resistance and an operating temperature range of −20°C to 60°C help the T1 handle demanding outdoor conditions.",
+      "bullets": [
+        "Match Your Light to the Hunt—No Filters to Change: Switch between dedicated white, red and green LEDs with the side switch. From walking to your hunting spot to checking gear and scanning nearby terrain, choose your light without stopping to attach, remove or store a filter.",
+        "White Light for Finding Your Way & Searching the Terrain: Navigate the trail before dawn, scan your surroundings after sunset and find your way back to camp. Up to 2,060 lumens and a 388-meter beam distance provide powerful illumination when you need to see farther.",
+        "Red Light for Gear Checks at Your Hunting Spot: Locate equipment in your pack or check your setup before first light. The dedicated 250-lumen red light , with up to 56 meters of beam distance, puts red illumination a switch away.",
+        "Green Light for Scanning Nearby Terrain: Illuminate field edges, check the area around your hunting spot and observe your surroundings after dark. The dedicated 230-lumen green light delivers a beam distance of up to 74 meters , without an add-on filter.",
+        "Fast Controls for Every Stage of the Hunt: The tactical tail switch activates the light, the second tail switch adjusts output and accesses Strobe, and the side switch changes colors. Choose from 7 modes—Turbo, High, Medium, Low, Strobe, Red and Green —for trail navigation, gear checks and campsite tasks.",
+        "Rechargeable Power from Hunt to Camp: An included 21700 5000mAh rechargeable battery provides up to 243 hours of runtime , depending on the mode. USB-C charging and a battery-level indicator help you prepare for your next outing.",
+        "Built for Wet Trails & Demanding Hunts: A durable A6061-T6 aluminum body , IPX8 waterproofing , 1.5-meter drop resistance and an operating temperature range of −20°C to 60°C help the T1 handle demanding outdoor conditions."
+      ],
+      "published_at": "2026-08-21T13:29:23+08:00",
+      "source_ref": "shopify:products.json#9207908008178",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 2060lm long-throw hunting flashlight with dedicated white, red and green LEDs and no filters to change.",
+      "key_specs": {
+        "lumens": 2060,
+        "battery_mah": 5000,
+        "recharge": "USB-C",
+        "runtime_h": 243,
+        "weight_g": null,
+        "waterproof": "IPX8"
+      },
+      "selling_points": [
+        {
+          "point": "Three colors, no filters to change",
+          "benefit": "switch white/red/green with a side switch instead of swapping filters in the dark",
+          "scenarios": [
+            "hunting",
+            "fishing"
+          ]
+        },
+        {
+          "point": "388m long throw, 2060lm white",
+          "benefit": "navigate the trail and scan terrain before dawn or after sunset",
+          "scenarios": [
+            "hunting",
+            "night_hiking"
+          ]
+        },
+        {
+          "point": "Dedicated red and green LEDs",
+          "benefit": "check gear or scan field edges without spooking game or killing night vision",
+          "scenarios": [
+            "hunting",
+            "fishing"
+          ]
+        },
+        {
+          "point": "21700 5000mAh, up to 243h, IPX8",
+          "benefit": "runs across a whole trip in demanding, wet conditions",
+          "scenarios": [
+            "hunting",
+            "camping",
+            "emergency"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "hunting",
+        "fishing",
+        "night_hiking",
+        "camping",
+        "emergency"
+      ],
+      "audience": [
+        "hunter",
+        "angler",
+        "outdoor",
+        "prepper"
+      ],
+      "competitor_analogs": [
+        "Fenix",
+        "Nitecore",
+        "Olight",
+        "Streamlight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-hopedone-h2-headlamp",
+      "sku": "7829",
+      "name": "HOPEDONE H2 450LM Rechargeable Motion Sensor Headlamp for Running & Work",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "Head lamp",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-hopedone-h2-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/Hokolite_HOPEDONE_H2_450_lumen_rechargeable_sensor_headlamp_for_running.jpg?v=1787281701",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "headlamps",
+        "new-arrivals"
+      ],
+      "body_text": "Built for Runs, Repairs, and Hands-Free Work. \n From early-morning runs and campsite tasks to garage repairs and emergency backup, the HOPEDONE H2 gives you bright, touch-free lighting without taking up either hand. \n 450 Lumens Dual-Beam Lighting: Use the cool white and warm white LEDs together for broad, balanced illumination, or switch between single-light modes when you need focused visibility for running, repairs, outdoor work, or low-light tasks. \n Cool White, Warm White, and Red Light Modes: Choose cool white for clearer inspection, warm white for more comfortable close-up lighting, or red light to help preserve night vision. The red flash mode also supports emergency signaling and hazard warning. \n Motion Sensor Hands-Free Control: Activate the sensor mode and wave your hand near the front sensor to turn the light on or off. It is especially useful when wearing gloves, working with tools, or keeping your hands clean during repairs. \n USB-C Rechargeable Power: The built-in 1100mAh rechargeable battery provides reliable runtime for daily use. Recharge by USB-C in about 3.5 hours, and use the battery indicator to check the power level at a glance. \n Lightweight IPX4 Headlamp Design: The compact ABS+PC body, adjustable headband, and IPX4 water-resistant construction make the H2 easy to wear for running, camping, hiking, garage work, and emergency lighting. \n One headlamp. More ways to stay visible and hands-free.",
+      "bullets": [],
+      "published_at": "2026-08-21T11:35:11+08:00",
+      "source_ref": "shopify:products.json#9208720589042",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-clakap-p3-140-lumen-flashlight",
+      "sku": "7716",
+      "name": "CLAKAP P3 7-in-1 Rechargeable Multi-Tool Pen Light for Inspection & Emergency",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-clakap-p3-140-lumen-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/74b96dbb2d19db9758ba306fc55ad040_442e1db4-62f3-4202-9708-82fad324cfe3.jpg?v=1783583881",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "edc-flashlights",
+        "new-arrivals"
+      ],
+      "body_text": "One Pen. Seven Tools. Ready for Everyday Fixes and Emergencies. \n 7 Tools in One Slim Pen: Combines a rechargeable inspection light, ballpoint pen, touchscreen stylus, Phillips screwdriver, flathead screwdriver, bottle opener, and emergency glass breaker in one compact tool. \n 140LM Inspection Light + 250LM Turbo: Brightens tight spaces, vehicle interiors, toolboxes, and dark corners. Double-click for a temporary 250-lumen Turbo boost when extra visibility is needed. \n Four Useful Lighting Modes: Switch between High, Low, Strobe, and Turbo for close-up inspections, everyday tasks, signaling, and roadside emergencies. \n Fast USB-C Charging, Up to 5 Hours: The built-in 270mAh battery recharges in under one hour and provides up to five hours of runtime on Low mode. \n Pocket-Ready Aluminum Design: Weighing only 1.92 oz, the slim aluminum body and pocket clip make it easy to carry on a shirt pocket, notebook, tool pouch, backpack, or glove box. Extra ink refills are included.",
+      "bullets": [],
+      "published_at": "2026-08-19T09:33:41+08:00",
+      "source_ref": "shopify:products.json#9164504236274",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-hokoiln-r1-1300-lumen-headlamp",
+      "sku": "1313-2-YE",
+      "name": "HOKOILN R1 Plus  2-Pack 1300LM Rechargeable Sensor Headlamp for Hunting & Camping & Hiking",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "",
+      "price_usd": 39.99,
+      "url": "https://hokolite.com/products/hokolite-hokoiln-r1-1300-lumen-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/Hokolite_HOKOILN_R1_1300_lumen_rechargeable_headlamp_for_camping.jpg?v=1785923623",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "headlamps",
+        "best-sellers",
+        "new-arrivals"
+      ],
+      "body_text": "Light Camo Style for Nights Outdoors \n The HOKOLITE HOKOILN R1 features a distinctive light camouflage design with spot, flood, and multi-color lighting for hiking, fishing, hunting, camping, and nighttime emergencies.\n See Both Near and Far: \nUp to 1,300 lumens combine an XPG spotlight for the trail ahead with COB floodlighting for the ground and nearby surroundings.\n Choose the Right Light Color: \nWhite light supports everyday visibility, green light suits nighttime observation, and red light reduces harsh glare around campsites and low-light settings.\n Control It with a Wave: \nMotion sensing makes it easier to switch the light on or off when your hands are occupied with tools, fishing gear, or outdoor equipment.\n Aim Light with the Terrain: \nThe lamp tilts up to 90°, helping you direct the beam forward on the trail or downward toward your footing and hands-on tasks.\n Stay Light and Weather Ready: \nEach headlamp weighs 2.5 oz and includes a removable, washable strap. USB-C charging takes approximately three hours, while IPX4 water resistance handles rain and splashes.\n Two headlamps. More ways to explore after dark.",
+      "bullets": [],
+      "published_at": "2026-08-05T18:06:36+08:00",
+      "source_ref": "shopify:products.json#9189109793010",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-clakap-u1-3000-lumen-work-light",
+      "sku": "7705",
+      "name": "CLAKAP U1 3000LM Rechargeable 2-in-1 Underhood Work Light for Car Repair & Garage",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 45.99,
+      "url": "https://hokolite.com/products/hokolite-clakap-u1-3000-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/CLAKAP_U1-10.jpg?v=1782891071",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "new-arrivals"
+      ],
+      "body_text": "One Light Bar for the Whole Engine Bay \n The HOKOLITE CLAKAP U1 connects into a full underhood light bar or separates into two independent work lights, giving you more control during car repairs, garage projects, roadside trouble, and power outages.\n See Across the Engine Bay: Connect the two 12.8-inch lights to create a 25.6-inch light bar. The 3,000-lumen wide-beam COB panels reduce shadows around bolts, wiring, and mechanical parts. \n Split the Light Between Tasks: Detach the bar into two handheld lights to illuminate separate engine areas, inspect different angles, or share one light with another person. \n Work Without Holding the Light: Magnets at both ends attach to metal surfaces, while concealed hooks provide convenient hanging from pipes, shelves, or railings. \n Turn the Beam Toward the Problem: A 350° rotating body and 180° bendable swivel base help aim the light into engine bays, under vehicles, and around difficult repair points. \n Stay Ready After the Repair: Runtime reaches 2–3 hours on High, 4–5 hours on Low, and 11–12 hours on Red Strobe. The USB output also provides temporary phone charging during outages or roadside emergencies. \n Connect it for wide coverage. Separate it when the job needs light in two places.",
+      "bullets": [],
+      "published_at": "2026-07-01T15:31:50+08:00",
+      "source_ref": "shopify:products.json#9157758288114",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 2-in-1 underhood light that connects into a full engine-bay bar or splits into two independent work lights.",
+      "key_specs": {
+        "lumens": 3000,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "2-in-1: bar or two separate lights",
+          "benefit": "run it as a 25.6-inch bay bar, or split it for two work areas",
+          "scenarios": [
+            "auto_repair",
+            "garage",
+            "workshop"
+          ]
+        },
+        {
+          "point": "3000lm wide-beam COB panels",
+          "benefit": "cuts shadows across the whole engine bay",
+          "scenarios": [
+            "auto_repair",
+            "inspection"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "auto_repair",
+        "garage",
+        "workshop",
+        "inspection",
+        "power_outage"
+      ],
+      "audience": [
+        "mechanic",
+        "diy",
+        "tradesman"
+      ],
+      "competitor_analogs": [
+        "NEBO"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-yzoni-r3-500-lumen-edc-flashlight",
+      "sku": "7712",
+      "name": "YZONI R3 - 800LM Rechargeable Magnetic Hands-free EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 26.99,
+      "url": "https://hokolite.com/products/hokolite-yzoni-r3-500-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/YZONI_R3-1.jpg?v=1782889727",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "edc-flashlights",
+        "best-sellers",
+        "new-arrivals"
+      ],
+      "body_text": "Clip It On and Keep Light Within Reach \n The HOKOLITE YZONI R3 packs focused lighting, wide-area illumination, and visibility modes into a mini clip light for everyday carry, night walks, vehicle checks, work shifts, camping, and roadside situations.\n See Ahead or Light the Task: Use the 800-lumen front spotlight to check the path ahead or look deeper into equipment, then switch to the 600-lumen side floodlight for repairs, reading, and close-up work. \n Wear the Light While You Move: The built-in clip attaches to a shirt, pocket, belt, hat brim, backpack strap, or gear bag, keeping useful light close without occupying your hand. \n Mount It Where the Work Is: Attach the magnetic back to car panels, toolboxes, metal shelving, cabinets, or workbenches for convenient hands-free lighting during inspections and repairs. \n Stay Visible When Plans Change: Seven lighting modes include front and side white light, red light, and red-blue flashing for work, outages, roadside stops, and other low-light situations. \n Carry Less and Access Light Faster: Measuring approximately 1.1 × 1.1 × 2.3 inches and weighing 1.76 oz, the R3 fits easily into a pocket, glovebox, or tool bag. USB-C charging takes approximately two hours, while the 8-second reset reduces unnecessary mode cycling. \n A tiny light for the moments when holding a flashlight is one task too many.",
+      "bullets": [],
+      "published_at": "2026-07-01T15:12:04+08:00",
+      "source_ref": "shopify:products.json#9157748097266",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-hopedone-p2-edc-flashlight",
+      "sku": "7704",
+      "name": "HOPEDONE P2 - 800LM Dual Power Magnetic 90° Swivel Head Pen Light",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 26.99,
+      "url": "https://hokolite.com/products/hokolite-hopedone-p2-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/Hopedone_P2-1.jpg?v=1782886854",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "edc-flashlights",
+        "best-sellers",
+        "new-arrivals"
+      ],
+      "body_text": "A Penlight That Reaches into the Job \n The HOKOLITE HOPEDONE P2 is a compact magnetic inspection light made for under-hood checks, garage repairs, equipment maintenance, and everyday tool kits.\n• \n Pinpoint the Work: Up to 800 lumens of focused light helps reveal components and repair details inside engine bays and other confined work areas. \n• \n Turn Light into Tight Spaces: The 90° swivel head redirects the beam toward deep, low, or side-facing inspection points without forcing your hand into an awkward position. \n• \n Stick It or Clip It: Attach the magnetic base to a steel surface, or secure the two-way clip to a pocket, belt, or hat brim for convenient hands-free lighting. \n• \n Choose the Mode You Need: High, Low, Strobe, and SOS modes cover close-up inspection, everyday repair work, and emergency signaling. \n• \n Built for Rough Workdays: The 73.5 g aluminum body is rated for drops of up to 10 meters. Its 700mAh battery recharges by USB-C in approximately two hours, with a red and green charging indicator. \n Small enough for your pocket. Tough enough for the shop.",
+      "bullets": [
+        "Pinpoint the Work: Up to 800 lumens of focused light helps reveal components and repair details inside engine bays and other confined work areas.",
+        "Turn Light into Tight Spaces: The 90° swivel head redirects the beam toward deep, low, or side-facing inspection points without forcing your hand into an awkward position.",
+        "Stick It or Clip It: Attach the magnetic base to a steel surface, or secure the two-way clip to a pocket, belt, or hat brim for convenient hands-free lighting.",
+        "Choose the Mode You Need: High, Low, Strobe, and SOS modes cover close-up inspection, everyday repair work, and emergency signaling.",
+        "Built for Rough Workdays: The 73.5 g aluminum body is rated for drops of up to 10 meters. Its 700mAh battery recharges by USB-C in approximately two hours, with a red and green charging indicator."
+      ],
+      "published_at": "2026-07-01T14:35:07+08:00",
+      "source_ref": "shopify:products.json#9157732696306",
+      "observed_at": "2026-10-12",
+      "one_liner": "An 800lm pen light with a 90° swivel head and magnetic base for confined inspection work.",
+      "key_specs": {
+        "lumens": 800,
+        "battery_mah": 700,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": 73.5,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "90° swivel head",
+          "benefit": "point the beam into deep or low spots without twisting your hand",
+          "scenarios": [
+            "auto_repair",
+            "inspection",
+            "garage"
+          ]
+        },
+        {
+          "point": "Magnetic base or clip",
+          "benefit": "stick it to steel or clip to a pocket, belt or hat, hands free",
+          "scenarios": [
+            "auto_repair",
+            "workshop"
+          ]
+        },
+        {
+          "point": "10m drop-rated aluminum",
+          "benefit": "survives rough workdays",
+          "scenarios": [
+            "garage",
+            "workshop"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "auto_repair",
+        "inspection",
+        "garage",
+        "workshop",
+        "edc"
+      ],
+      "audience": [
+        "mechanic",
+        "diy",
+        "edc",
+        "tradesman"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "Streamlight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-lexall-e5-1600-lumen-edc-flashlight",
+      "sku": "7702",
+      "name": "Lexall E5 - 1600 Lumen 3-in-1 6 Modes EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-lexall-e5-1600-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/7702-1.jpg?v=1781762782",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "edc-flashlights",
+        "best-sellers",
+        "new-arrivals"
+      ],
+      "body_text": "Pocket Light for What Ordinary White Light Misses \n The HOKOLITE Lexall E5 combines a bright COB floodlight, focused LED spotlight, and 365nm UV inspection light in a compact design for everyday carry, vehicle checks, home inspection, repairs, camping, and emergencies.\n Open Up the Work Area: \nChoose the 600-lumen COB Low mode or 1,000-lumen COB High mode, then press and hold for up to 1,600 lumens in Turbo when extra brightness is needed. \n Reveal What White Light Cannot: \nThe 365nm UV light helps uncover automotive leak traces, pet stains, residue, hidden markings, and other details that may be difficult to spot under normal lighting. \n Focus on the Detail Ahead: \nA separate 500-lumen LED spotlight reaches into confined spaces, equipment, and distant inspection points, complementing the wider COB beam. \n Stick It, Clip It, Keep Working: \nTwo built-in magnets—one on the base and one on the back—attach to metal surfaces, while the integrated clip secures the light to a pocket, belt, or tool bag. \n Fine-Tune Light for the Task: \nSix lighting modes, stepless dimming, and smart mode memory make brightness easier to control. The 1000mAh battery recharges by USB-C in approximately three hours, with charging and low-battery indicators. \n Flood the workspace, focus on the detail, or reveal what ordinary light leaves behind.",
+      "bullets": [],
+      "published_at": "2026-06-18T14:22:01+08:00",
+      "source_ref": "shopify:products.json#9145574818034",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7687-800-lumen-work-light",
+      "sku": "7687",
+      "name": "7687 - 800 Lumen Rechargeable Magnetic Neck Work Light | HOKOLITE",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-7687-800-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7687-800-lumen-magnetic-neck-work-light-3040847.jpg?v=1778765770",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 800 Lumens Output: Dual adjustable LED heads deliver bright, focused lighting for close-up work and repairs.\n• \n Dual 500mAh Rechargeable Batteries: Each detachable light provides 2–3.5 hours of runtime with dual Type-C charging.\n• \n Durable & Water-Resistant: IPX4-rated body supports reliable use in workshops and outdoor conditions.\n• \n Detachable Magnetic Design: Removable lights attach to metal surfaces for hands-free repair and task lighting.\n• \n Flexible Neck Design: Lightweight neckband and 90° adjustable heads provide comfortable, precise illumination.",
+      "bullets": [
+        "800 Lumens Output: Dual adjustable LED heads deliver bright, focused lighting for close-up work and repairs.",
+        "Dual 500mAh Rechargeable Batteries: Each detachable light provides 2–3.5 hours of runtime with dual Type-C charging.",
+        "Durable & Water-Resistant: IPX4-rated body supports reliable use in workshops and outdoor conditions.",
+        "Detachable Magnetic Design: Removable lights attach to metal surfaces for hands-free repair and task lighting.",
+        "Flexible Neck Design: Lightweight neckband and 90° adjustable heads provide comfortable, precise illumination."
+      ],
+      "published_at": "2026-05-14T10:09:04+08:00",
+      "source_ref": "shopify:products.json#9063604879602",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7593-800-lumen-edc-flashlight",
+      "sku": "7593",
+      "name": "7593 - Dual Light 800 Lumen Rechargeable Clip EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "",
+      "price_usd": 26.99,
+      "url": "https://hokolite.com/products/hokolite-7593-800-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7593-800-lumen-dual-light-edc-flashlight-6608431.jpg?v=1778682912",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 800 Lumens Output: LED spotlight and COB floodlight deliver focused and wide illumination up to 100 meters.\n• \n Dual Power Supply: Rechargeable battery or 2 AAA batteries provide flexible backup power with 2–3 hour charging.\n• \n Durable & Water-Resistant: Aluminum body resists corrosion, scratches, water, dust, and 1.5m impacts.\n• \n Compact EDC Design: Slim pen-style body fits easily in pockets, bags, tool kits, or everyday carry setups.\n• \n Zoomable & Clip Design: Adjustable beam and steel clip support quick lighting, easy carry, and hands-free use",
+      "bullets": [
+        "800 Lumens Output: LED spotlight and COB floodlight deliver focused and wide illumination up to 100 meters.",
+        "Dual Power Supply: Rechargeable battery or 2 AAA batteries provide flexible backup power with 2–3 hour charging.",
+        "Durable & Water-Resistant: Aluminum body resists corrosion, scratches, water, dust, and 1.5m impacts.",
+        "Compact EDC Design: Slim pen-style body fits easily in pockets, bags, tool kits, or everyday carry setups.",
+        "Zoomable & Clip Design: Adjustable beam and steel clip support quick lighting, easy carry, and hands-free use"
+      ],
+      "published_at": "2026-05-13T16:30:29+08:00",
+      "source_ref": "shopify:products.json#9063004864754",
+      "observed_at": "2026-10-12",
+      "one_liner": "An 800lm clip EDC flashlight with a zoomable spot/flood beam and dual power (rechargeable or AAA).",
+      "key_specs": {
+        "lumens": 800,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Spot + COB flood, zoomable",
+          "benefit": "switch from a 100m throw to close-up wide light",
+          "scenarios": [
+            "edc",
+            "inspection",
+            "garage"
+          ]
+        },
+        {
+          "point": "Dual power: USB-C or 2 AAA",
+          "benefit": "never stuck without a charge",
+          "scenarios": [
+            "emergency",
+            "power_outage"
+          ]
+        },
+        {
+          "point": "Slim pen-style with steel clip",
+          "benefit": "drops in a pocket or bag and clips for hands-free use",
+          "scenarios": [
+            "edc"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "edc",
+        "inspection",
+        "garage",
+        "emergency",
+        "power_outage",
+        "camping"
+      ],
+      "audience": [
+        "edc",
+        "diy",
+        "mechanic",
+        "prepper"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "NEBO",
+        "Streamlight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0084-200-lumen-running-light",
+      "sku": "0084",
+      "name": "0084 - 200 Lumen 5 light Modes Clip On Running Light",
+      "brand": "Hokolite",
+      "category": "other",
+      "product_type_raw": "",
+      "price_usd": 32.99,
+      "url": "https://hokolite.com/products/hokolite-0084-200-lumen-running-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0084-200-lumen-clip-on-running-light-7235968.jpg?v=1778683036",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [],
+      "body_text": "• \n 200 Lumens Output: COB floodlight and LED spotlight deliver wide and focused lighting for running, repairs, and outdoor use.\n• \n 500mAh Rechargeable Battery: Provides 3.5–6+ hours of runtime with USB charging.\n• \n Durable & Water-Resistant: ABS body with IP44 protection supports daily and outdoor use.\n• \n 5 Lighting Modes: COB high, COB low, LED spotlight, red light, and green light support different needs.\n• \n Clip & Lanyard Design: Wide clip and lanyard hole allow use on hats, clothing, bags, or gear.",
+      "bullets": [
+        "200 Lumens Output: COB floodlight and LED spotlight deliver wide and focused lighting for running, repairs, and outdoor use.",
+        "500mAh Rechargeable Battery: Provides 3.5–6+ hours of runtime with USB charging.",
+        "Durable & Water-Resistant: ABS body with IP44 protection supports daily and outdoor use.",
+        "5 Lighting Modes: COB high, COB low, LED spotlight, red light, and green light support different needs.",
+        "Clip & Lanyard Design: Wide clip and lanyard hole allow use on hats, clothing, bags, or gear."
+      ],
+      "published_at": "2026-05-13T15:38:01+08:00",
+      "source_ref": "shopify:products.json#9062997295346",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7607-600-lumen-edc-flashlight",
+      "sku": "7607",
+      "name": "7607 - 600 Lumen 4 Modes Rechargeable Clip EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "",
+      "price_usd": 24.99,
+      "url": "https://hokolite.com/products/hokolite-7607-600-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7607-600-lumen-4-modes-clip-edc-flashlight-2800690.jpg?v=1778682912",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 600 Lumens Output: COB light delivers bright illumination with up to 263 ft beam distance for daily and outdoor use.\n• \n Rechargeable Battery: Provides up to 8.5 hours of runtime with fast Type-C charging in about 2 hours.\n• \n Ultra-Compact EDC Design: Lightweight 1 oz body fits easily in pockets, backpacks, or keychains.\n• \n 4 Lighting Modes: White high, white low, red steady, and red strobe support daily and emergency use.\n• \n Clip-On Design: Sturdy clip attaches securely to collars, pockets, belts, or backpack straps for hands-free lighting.",
+      "bullets": [
+        "600 Lumens Output: COB light delivers bright illumination with up to 263 ft beam distance for daily and outdoor use.",
+        "Rechargeable Battery: Provides up to 8.5 hours of runtime with fast Type-C charging in about 2 hours.",
+        "Ultra-Compact EDC Design: Lightweight 1 oz body fits easily in pockets, backpacks, or keychains.",
+        "4 Lighting Modes: White high, white low, red steady, and red strobe support daily and emergency use.",
+        "Clip-On Design: Sturdy clip attaches securely to collars, pockets, belts, or backpack straps for hands-free lighting."
+      ],
+      "published_at": "2026-05-13T11:31:03+08:00",
+      "source_ref": "shopify:products.json#9062959481074",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1464-motion-sensor-light",
+      "sku": "1464",
+      "name": "1464 - Rechargeable 4 Pack Charging Base Motion Sensor Light",
+      "brand": "Hokolite",
+      "category": "other",
+      "product_type_raw": "",
+      "price_usd": 39.99,
+      "url": "https://hokolite.com/products/hokolite-1464-motion-sensor-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1464-4-pack-charging-base-motion-sensor-light-3272126.jpg?v=1778586803",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [],
+      "body_text": "• \n COB Lighting Output: Upgraded COB panel delivers bright, focused lighting for cabinets, closets, and indoor spaces.\n• \n 1200mAh Rechargeable Battery: Provides 30–60 days of use in auto mode and recharges through a cordless charging base.\n• \n Motion Sensor Control: 120° detection with 10–13 ft range supports Always-On, Day Sensor, and Night Sensor modes.\n• \n Multi-Color Lighting: 3 color temperatures, 12 RGB colors, 4 dynamic modes, 15 brightness levels, and timer function offer flexible lighting.\n• \n Charging Base & Easy Installation: Charging base stores lights and remote, while magnetic or adhesive mounting allows quick setup.",
+      "bullets": [
+        "COB Lighting Output: Upgraded COB panel delivers bright, focused lighting for cabinets, closets, and indoor spaces.",
+        "1200mAh Rechargeable Battery: Provides 30–60 days of use in auto mode and recharges through a cordless charging base.",
+        "Motion Sensor Control: 120° detection with 10–13 ft range supports Always-On, Day Sensor, and Night Sensor modes.",
+        "Multi-Color Lighting: 3 color temperatures, 12 RGB colors, 4 dynamic modes, 15 brightness levels, and timer function offer flexible lighting.",
+        "Charging Base & Easy Installation: Charging base stores lights and remote, while magnetic or adhesive mounting allows quick setup."
+      ],
+      "published_at": "2026-05-12T18:02:34+08:00",
+      "source_ref": "shopify:products.json#9062040273138",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7601-600-lumen-work-light",
+      "sku": "7601",
+      "name": "7601 - 600 Lumen Rechargeable EDC Tool 3-in-1 Running Light",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-7601-600-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7601-600-lumen-3-in-1-work-light-6901257.jpg?v=1778586811",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "headlamps"
+      ],
+      "body_text": "• \n 600 Lumens Output: COB floodlight and spotlight deliver bright, wide and focused illumination for work and outdoor use.\n• \n Rechargeable Battery: Provides 5–6 hours of runtime with fast USB-C charging in about 2 hours.\n• \n Durable & Compact Design: Rugged mini body with hidden battery indicator supports reliable daily and work use.\n• \n 3-in-1 Hands-Free Design: Headband, hat clip, and magnetic base allow flexible wearing, clipping, or mounting.\n• \n Multi-Function EDC Tool: Carabiner, bottle opener, and safety tape slitter add practical utility for daily tasks.",
+      "bullets": [
+        "600 Lumens Output: COB floodlight and spotlight deliver bright, wide and focused illumination for work and outdoor use.",
+        "Rechargeable Battery: Provides 5–6 hours of runtime with fast USB-C charging in about 2 hours.",
+        "Durable & Compact Design: Rugged mini body with hidden battery indicator supports reliable daily and work use.",
+        "3-in-1 Hands-Free Design: Headband, hat clip, and magnetic base allow flexible wearing, clipping, or mounting.",
+        "Multi-Function EDC Tool: Carabiner, bottle opener, and safety tape slitter add practical utility for daily tasks."
+      ],
+      "published_at": "2026-05-12T16:42:31+08:00",
+      "source_ref": "shopify:products.json#9061526208754",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7378-1400-lumen-headlamp",
+      "sku": "7378",
+      "name": "7378 - 1400 Lumen Night Vision Motion Sensor Headlamp",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-7378-1400-lumen-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7378-1400-night-vision-lumen-headlamp-7505186.jpg?v=1778586812",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "headlamps"
+      ],
+      "body_text": "• \n 1400 Lumens Output: Dual LED and COB deliver bright spotlight and wide-area illumination for outdoor use.\n• \n Rechargeable Battery: Provides 3–8 hours of runtime with fast Type-C charging.\n• \n Durable & Water-Resistant: ABS body ensures reliable performance for outdoor and work conditions.\n• \n Motion Sensor Control: Hands-free operation allows easy lighting control with simple gestures.\n• \n Red & Green Light Modes: Red light helps preserve night vision, while green light is ideal for hunting and fishing.",
+      "bullets": [
+        "1400 Lumens Output: Dual LED and COB deliver bright spotlight and wide-area illumination for outdoor use.",
+        "Rechargeable Battery: Provides 3–8 hours of runtime with fast Type-C charging.",
+        "Durable & Water-Resistant: ABS body ensures reliable performance for outdoor and work conditions.",
+        "Motion Sensor Control: Hands-free operation allows easy lighting control with simple gestures.",
+        "Red & Green Light Modes: Red light helps preserve night vision, while green light is ideal for hunting and fishing."
+      ],
+      "published_at": "2026-05-12T15:46:41+08:00",
+      "source_ref": "shopify:products.json#9061514641650",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 1400lm night-vision headlamp with red and green modes and motion control for hunting and fishing.",
+      "key_specs": {
+        "lumens": 1400,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": 8,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Red and green light modes",
+          "benefit": "preserve night vision and move quietly on hunts or night fishing",
+          "scenarios": [
+            "hunting",
+            "fishing",
+            "night_hiking"
+          ]
+        },
+        {
+          "point": "Dual LED + COB, 1400lm",
+          "benefit": "spot for distance and wide light for tasks in one headlamp",
+          "scenarios": [
+            "camping",
+            "garage"
+          ]
+        },
+        {
+          "point": "Motion sensor control",
+          "benefit": "hands-free on/off when your hands are busy",
+          "scenarios": [
+            "auto_repair",
+            "workshop"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "hunting",
+        "fishing",
+        "night_hiking",
+        "camping",
+        "garage",
+        "dog_walking"
+      ],
+      "audience": [
+        "hunter",
+        "angler",
+        "hiker",
+        "camper",
+        "outdoor"
+      ],
+      "competitor_analogs": [
+        "Fenix",
+        "Nitecore",
+        "Olight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-yzoni-w5-work-light",
+      "sku": "7646",
+      "name": "YZONI W5 4000-8000LM Rechargeable Work Light&Power Bank for Car Repair, Garage & Emergencies",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 49.99,
+      "url": "https://hokolite.com/products/hokolite-yzoni-w5-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-yzoni-w5-4000lm-3-in-1-360-adjustable-work-light-2179583.jpg?v=1778586811",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "best-sellers"
+      ],
+      "body_text": "Built for the Repairs You Do in Your Own Garage. \n From engine-bay checks and battery changes to wheel-area  work and bench repairs, W5 gives home garage DIYers stable,  multi-angle lighting without tying up either hand. \n• \n 6-Magnet Hands-Free Base: Six powerful magnets secure the W5 to car hoods, truck beds, toolboxes, workbenches, and other ferrous metal surfaces. The articulated base adjusts to narrow edges and curved surfaces for stable, hands-free lighting.\n• \n 4,000-8000 Lumens from Every Angle: Use the focused center spotlight for inspection and distance, or activate the floodlights for broad, even coverage. The main light rotates 360° and tilts 180°, while both side panels swivel up to 350° and tilt 180°.\n• \n 6 Modes + Stepless Dimming: Switch between spotlight, main floodlight, single-side, dual-side, full-output, and emergency strobe. Press and hold to adjust brightness smoothly from low to maximum.\n• \n 5–30 Hours + Emergency Power: The 6,000mAh rechargeable battery delivers approximately 5–30 hours of runtime. Recharge via USB-C in about five hours, monitor power with the four-stage indicator, or use the USB output to charge your phone during an outage or roadside emergency.\n• \n Folds Small. Sets Up Anywhere: Both side lights and all four support arms fold inward for compact storage. A standard 1/4-inch tripod mount provides elevated hands-free lighting, while glow-in-the-dark details make the W5 easier to find after lights-out.\n One light. More ways to get the job done.",
+      "bullets": [
+        "6-Magnet Hands-Free Base: Six powerful magnets secure the W5 to car hoods, truck beds, toolboxes, workbenches, and other ferrous metal surfaces. The articulated base adjusts to narrow edges and curved surfaces for stable, hands-free lighting.",
+        "4,000-8000 Lumens from Every Angle: Use the focused center spotlight for inspection and distance, or activate the floodlights for broad, even coverage. The main light rotates 360° and tilts 180°, while both side panels swivel up to 350° and tilt 180°.",
+        "6 Modes + Stepless Dimming: Switch between spotlight, main floodlight, single-side, dual-side, full-output, and emergency strobe. Press and hold to adjust brightness smoothly from low to maximum.",
+        "5–30 Hours + Emergency Power: The 6,000mAh rechargeable battery delivers approximately 5–30 hours of runtime. Recharge via USB-C in about five hours, monitor power with the four-stage indicator, or use the USB output to charge your phone during an outage or roadside emergency.",
+        "Folds Small. Sets Up Anywhere: Both side lights and all four support arms fold inward for compact storage. A standard 1/4-inch tripod mount provides elevated hands-free lighting, while glow-in-the-dark details make the W5 easier to find after lights-out."
+      ],
+      "published_at": "2026-03-11T10:52:41+08:00",
+      "source_ref": "shopify:products.json#8988667412722",
+      "observed_at": "2026-10-12",
+      "one_liner": "A folding 4000-8000lm work light and power bank with a six-magnet base and 360° articulation.",
+      "key_specs": {
+        "lumens": 8000,
+        "battery_mah": 6000,
+        "recharge": "USB-C",
+        "runtime_h": 30,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "6-magnet articulating base",
+          "benefit": "clamps onto hoods, truck beds and toolboxes at any angle, hands free",
+          "scenarios": [
+            "auto_repair",
+            "garage",
+            "workshop"
+          ]
+        },
+        {
+          "point": "Spot + flood, 360°/180° articulation",
+          "benefit": "switch from an inspection spot to a wide flood and aim it anywhere",
+          "scenarios": [
+            "inspection",
+            "camping",
+            "power_outage"
+          ]
+        },
+        {
+          "point": "6000mAh with phone charging",
+          "benefit": "runs 5-30 hours and tops up a phone during an outage",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        },
+        {
+          "point": "Folds flat with tripod mount",
+          "benefit": "packs small and can sit on a tripod for elevated lighting",
+          "scenarios": [
+            "camping",
+            "workshop"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "auto_repair",
+        "garage",
+        "workshop",
+        "inspection",
+        "camping",
+        "power_outage",
+        "emergency"
+      ],
+      "audience": [
+        "mechanic",
+        "diy",
+        "camper",
+        "prepper",
+        "tradesman"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "NEBO"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-adelante-w3-2100lm-work-light",
+      "sku": "7684",
+      "name": "ADELANTE W3 Rechargeable Work Light&Power Bank - 2100LM Clamp 7 Light 4-in-1",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 35.99,
+      "url": "https://hokolite.com/products/hokolite-adelante-w3-2100lm-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-adelante-w3-2100lm-clamp-magnetic-work-light-3286676.jpg?v=1778586811",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "best-sellers"
+      ],
+      "body_text": "Hands-Free Lighting Wherever the Job Takes You \n• \n 2,100-Lumen Flood & Spot Lighting: Powerful COB floodlight illuminates large work areas, while the focused spotlight helps with detailed inspection and tight spaces. \n• \n 4 Ways to Mount Hands-Free: Clamp it to a workbench, stick it to metal with the built-in magnets, stand it on a flat surface, or hang it overhead. \n• \n 360° Adjustable Light Direction: Rotate the lamp head to aim light exactly where you need it without repositioning the entire light. \n• \n 7 Useful Lighting Modes: Choose from three floodlight levels, two spotlight levels, steady red and red strobe for repairs, emergencies and everyday tasks. \n• \n Up to 10 Hours + USB Backup Power: The built-in 4000mAh rechargeable battery delivers up to 10 hours of runtime and can provide backup power for phones and other small USB devices. \n Hang it up. The W3 keeps dependable light within reach.",
+      "bullets": [
+        "2,100-Lumen Flood & Spot Lighting: Powerful COB floodlight illuminates large work areas, while the focused spotlight helps with detailed inspection and tight spaces.",
+        "4 Ways to Mount Hands-Free: Clamp it to a workbench, stick it to metal with the built-in magnets, stand it on a flat surface, or hang it overhead.",
+        "360° Adjustable Light Direction: Rotate the lamp head to aim light exactly where you need it without repositioning the entire light.",
+        "7 Useful Lighting Modes: Choose from three floodlight levels, two spotlight levels, steady red and red strobe for repairs, emergencies and everyday tasks.",
+        "Up to 10 Hours + USB Backup Power: The built-in 4000mAh rechargeable battery delivers up to 10 hours of runtime and can provide backup power for phones and other small USB devices."
+      ],
+      "published_at": "2026-03-10T10:21:37+08:00",
+      "source_ref": "shopify:products.json#8987130102002",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-hokoiln-w1-2500lumen-work-light",
+      "sku": "7434",
+      "name": "HOKOILN W1-2500LM 360° Rotatable Magnetic Work Light&Power Bank",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 34.99,
+      "url": "https://hokolite.com/products/hokolite-hokoiln-w1-2500lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-hokoiln-w1-2500lumen-360-rotatable-magnetic-work-light-1924249.jpg?v=1778586853",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "best-sellers"
+      ],
+      "body_text": "Bright Light. Both Hands Free. \n• \n 2,500 Lumens for Your Workspace: Dual COB floodlight panels spread wide-area illumination across engine bays, workbenches and garage projects. Switch to the separate side LED spotlight for focused inspection in tight spaces. \n• \n Position the Light. Free Your Hands: Two strong magnets attach to compatible metal surfaces, while the 360° rotating bracket and 180° tilt help aim the light where you need it. A 1/4-inch tripod mount adds another setup option. \n• \n 9 Modes for Work and Emergencies: Choose lighting for repairs, camping and power outages, with red and flashing red modes for emergency signaling. Separate COB and LED brightness buttons make output adjustments easy. \n• \n Rechargeable Light with Backup Power: A built-in 4,000mAh battery delivers up to 10 hours of runtime and recharges via USB-C. USB power output provides backup charging for small devices when an outlet is out of reach. \n• \n Foldable and Ready to Go: Weighing just 0.85 lb, the W1 packs easily into a tool bag or emergency kit. A non-slip rubber coating and water- and impact-resistant construction support everyday use.",
+      "bullets": [
+        "2,500 Lumens for Your Workspace: Dual COB floodlight panels spread wide-area illumination across engine bays, workbenches and garage projects. Switch to the separate side LED spotlight for focused inspection in tight spaces.",
+        "Position the Light. Free Your Hands: Two strong magnets attach to compatible metal surfaces, while the 360° rotating bracket and 180° tilt help aim the light where you need it. A 1/4-inch tripod mount adds another setup option.",
+        "9 Modes for Work and Emergencies: Choose lighting for repairs, camping and power outages, with red and flashing red modes for emergency signaling. Separate COB and LED brightness buttons make output adjustments easy.",
+        "Rechargeable Light with Backup Power: A built-in 4,000mAh battery delivers up to 10 hours of runtime and recharges via USB-C. USB power output provides backup charging for small devices when an outlet is out of reach.",
+        "Foldable and Ready to Go: Weighing just 0.85 lb, the W1 packs easily into a tool bag or emergency kit. A non-slip rubber coating and water- and impact-resistant construction support everyday use."
+      ],
+      "published_at": "2026-02-27T15:30:16+08:00",
+      "source_ref": "shopify:products.json#8976912318706",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 2500lm 360° magnetic work light and power bank that folds into a tool-bag size.",
+      "key_specs": {
+        "lumens": 2500,
+        "battery_mah": 4000,
+        "recharge": "USB-C",
+        "runtime_h": 10,
+        "weight_g": 385,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Dual COB panels + side spotlight",
+          "benefit": "wide-area light for bays and benches, plus a spot for tight spaces",
+          "scenarios": [
+            "garage",
+            "workshop",
+            "inspection"
+          ]
+        },
+        {
+          "point": "Two magnets, 360° rotation, 180° tilt",
+          "benefit": "aims anywhere and stays put, hands free",
+          "scenarios": [
+            "auto_repair",
+            "garage"
+          ]
+        },
+        {
+          "point": "4000mAh, 10h runtime, USB-C",
+          "benefit": "lasts a workday and charges small devices as backup",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        },
+        {
+          "point": "0.85 lb, folds into a tool bag",
+          "benefit": "easy to carry and store for jobs on the go",
+          "scenarios": [
+            "camping",
+            "roadside"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "garage",
+        "auto_repair",
+        "workshop",
+        "camping",
+        "power_outage",
+        "emergency"
+      ],
+      "audience": [
+        "diy",
+        "mechanic",
+        "camper",
+        "prepper"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "NEBO"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7647-650-lumen-edc-flashlight",
+      "sku": "7647",
+      "name": "7647- 650 Lumen 4 Modes Rechargeable Waterproof EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "keychain flashlight",
+      "price_usd": 34.99,
+      "url": "https://hokolite.com/products/hokolite-7647-650-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7647-4-modes-waterproof-edc-flashlight-7841605.jpg?v=1778586810",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 650 Lumens Output : Bright, wide beam with up to 358 ft distance.\n• \n 350mAh Rechargeable Battery:   Fast 50-minute charging with  USB-C charging. up to 8 hours of use on low mode. \n• \n Rugged and Water-Resistant: Aircraft-grade aluminum body. Water-resistant and impact-resistant for everyday and outdoor use. \n• Ultra-Compact EDC Design : Slim, lightweight, and easy to carry. Fits in your pocket or on your keychain. \n• 4 Lighting Modes : Turbo, High, Medium, and Low modes. High CRI light for more natural color.",
+      "bullets": [
+        "650 Lumens Output : Bright, wide beam with up to 358 ft distance.",
+        "350mAh Rechargeable Battery:   Fast 50-minute charging with  USB-C charging. up to 8 hours of use on low mode.",
+        "Rugged and Water-Resistant: Aircraft-grade aluminum body. Water-resistant and impact-resistant for everyday and outdoor use.",
+        "Ultra-Compact EDC Design : Slim, lightweight, and easy to carry. Fits in your pocket or on your keychain.",
+        "4 Lighting Modes : Turbo, High, Medium, and Low modes. High CRI light for more natural color."
+      ],
+      "published_at": "2026-01-28T14:22:13+08:00",
+      "source_ref": "shopify:products.json#8944335225074",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-lexall-e6-2000-lumens-edc-flashlight",
+      "sku": "7558",
+      "name": "LEXALL E6 - 2000LM Magnetic 3-in-1 Design EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 35.99,
+      "url": "https://hokolite.com/products/hokolite-lexall-e6-2000-lumens-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-lexall-e6-3-in-1-light-pocket-edc-flashlight-3206472.jpg?v=1778586811",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "edc-flashlights",
+        "best-sellers"
+      ],
+      "body_text": "• \n 2000 Lumens High Output : 200m spot beam + 65m flood light provide both long-range and close-range illumination needs.\n• \n 3-in-1 Modular Design : Spotlight + Floodlight + RGB side light for versatile lighting needs.\n• \n 2000mAh Rechargeable Battery: Up to 17 hours of runtime with Type-C charging in RGB side light mode.\n• \n Magnetic Use: Tail allows attachment to metal surfaces to hands-Free.\n• \n Rugged Water-Resistant Build: Withstands drops and harsh weather conditions",
+      "bullets": [
+        "2000 Lumens High Output : 200m spot beam + 65m flood light provide both long-range and close-range illumination needs.",
+        "3-in-1 Modular Design : Spotlight + Floodlight + RGB side light for versatile lighting needs.",
+        "2000mAh Rechargeable Battery: Up to 17 hours of runtime with Type-C charging in RGB side light mode.",
+        "Magnetic Use: Tail allows attachment to metal surfaces to hands-Free.",
+        "Rugged Water-Resistant Build: Withstands drops and harsh weather conditions"
+      ],
+      "published_at": "2026-01-07T10:00:37+08:00",
+      "source_ref": "shopify:products.json#8919723835634",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 2000lm 3-in-1 EDC flashlight with spot, flood and RGB side light and a magnetic tail.",
+      "key_specs": {
+        "lumens": 2000,
+        "battery_mah": 2000,
+        "recharge": "USB-C",
+        "runtime_h": 17,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "3-in-1: spot + flood + RGB side",
+          "benefit": "one light covers long range, close work and a marker or beacon",
+          "scenarios": [
+            "edc",
+            "garage",
+            "inspection"
+          ]
+        },
+        {
+          "point": "Magnetic tail",
+          "benefit": "sticks to metal for hands-free work",
+          "scenarios": [
+            "auto_repair",
+            "workshop"
+          ]
+        },
+        {
+          "point": "2000mAh, up to 17h, USB-C",
+          "benefit": "long runtime in a pocketable body",
+          "scenarios": [
+            "power_outage",
+            "camping"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "edc",
+        "garage",
+        "auto_repair",
+        "inspection",
+        "camping",
+        "power_outage"
+      ],
+      "audience": [
+        "edc",
+        "diy",
+        "mechanic",
+        "camper"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "Nitecore",
+        "Wurkkos"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7540-800lm-edc-flashlight",
+      "sku": "7540",
+      "name": "7540- 800LM Rechargeable Pen Clip EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "keychain flashlight",
+      "price_usd": 34.99,
+      "url": "https://hokolite.com/products/hokolite-7540-800lm-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7540-800lm-rechargeable-edc-flashlight-4556055.jpg?v=1778586812",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 800 Lumens High Output : Up to 180m beam distance for clear long-range visibility.\n• \n Rechargeable Battery & AAA Compatible : Up to 9 hours runtime with USB-C charging and backup AAA support.\n• \n Durable & Water-Resistant : Aircraft-grade aluminum with impact and weather resistance.\n• \n 2 Lighting Modes : High and Low brightness for flexible everyday use.\n• \n Clip-On Portable Design : Slim pen-style body with pocket clip for easy everyday carry.",
+      "bullets": [
+        "800 Lumens High Output : Up to 180m beam distance for clear long-range visibility.",
+        "Rechargeable Battery & AAA Compatible : Up to 9 hours runtime with USB-C charging and backup AAA support.",
+        "Durable & Water-Resistant : Aircraft-grade aluminum with impact and weather resistance.",
+        "2 Lighting Modes : High and Low brightness for flexible everyday use.",
+        "Clip-On Portable Design : Slim pen-style body with pocket clip for easy everyday carry."
+      ],
+      "published_at": "2025-08-04T13:50:26+08:00",
+      "source_ref": "shopify:products.json#8793976275186",
+      "observed_at": "2026-10-12",
+      "one_liner": "An 800lm pen-clip EDC flashlight with a 180m beam and USB-C or AAA power.",
+      "key_specs": {
+        "lumens": 800,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": 9,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "180m beam, 800lm",
+          "benefit": "clear long-range visibility in a pocket light",
+          "scenarios": [
+            "edc",
+            "emergency"
+          ]
+        },
+        {
+          "point": "USB-C + AAA backup",
+          "benefit": "charge it or drop in AAA for up to 9h runtime",
+          "scenarios": [
+            "emergency",
+            "power_outage"
+          ]
+        },
+        {
+          "point": "Aircraft aluminum, clip",
+          "benefit": "durable and easy to carry every day",
+          "scenarios": [
+            "edc"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "edc",
+        "emergency",
+        "power_outage",
+        "camping",
+        "dog_walking"
+      ],
+      "audience": [
+        "edc",
+        "homeowner",
+        "prepper"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "Streamlight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6371-130-lumen-camping-lantern",
+      "sku": "6371",
+      "name": "HOKOILN C1 - 130 Lumen 3 Modes Battery Power Hanging Camping Lantern",
+      "brand": "Hokolite",
+      "category": "camping_lantern",
+      "product_type_raw": "CAMPING LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-6371-130-lumen-camping-lantern",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/products/hokolite-6371-130-lumen-3-modes-camping-lantern-1985973.png?v=1778586939",
+      "in_stock": true,
+      "tags": [
+        "CAMPING LIGHT"
+      ],
+      "collections": [
+        "camping-lanterns"
+      ],
+      "body_text": "• \n 130 Lumens Output: Soft 360° lighting delivers clear, glare-free illumination for tents and indoor use.\n• \n AA Battery Powered: Runs on 3 AA batteries with up to 10 hours of runtime and extended low-mode use.\n• \n Durable & Compact Design: Lightweight body ensures reliable performance for indoor and outdoor use.\n• \n 3 Lighting Modes: High, medium, and low modes provide flexible lighting for different needs.\n• \n Portable & Hanging Design: Compact size with built-in loop allows easy carry and convenient placement.",
+      "bullets": [
+        "130 Lumens Output: Soft 360° lighting delivers clear, glare-free illumination for tents and indoor use.",
+        "AA Battery Powered: Runs on 3 AA batteries with up to 10 hours of runtime and extended low-mode use.",
+        "Durable & Compact Design: Lightweight body ensures reliable performance for indoor and outdoor use.",
+        "3 Lighting Modes: High, medium, and low modes provide flexible lighting for different needs.",
+        "Portable & Hanging Design: Compact size with built-in loop allows easy carry and convenient placement."
+      ],
+      "published_at": "2025-07-28T16:11:30+08:00",
+      "source_ref": "shopify:products.json#5396804108453",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7467-2000lm-edc-flashlight",
+      "sku": "7467",
+      "name": "7467- 5 Modes Rechargeable Adjustable Magnetic EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "spotlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-7467-2000lm-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7467-5-modes-adjustable-edc-flashlight-9915313.jpg?v=1778586812",
+      "in_stock": true,
+      "tags": [
+        "New",
+        "spotlight"
+      ],
+      "collections": [],
+      "body_text": "• \n 2000 Lumens High Output : Dual light sources provide strong spotlight and wide floodlight illumination.\n• \n 2200mAh Rechargeable Battery : 2.5–7.5 hours runtime with USB-C fast charging and power indicator.\n• \n Rugged and Water-Resistant : Durable ABS housing with all-weather protection for outdoor use.\n• \n Headlamp Conversion : Includes adjustable headband with 180° rotation for multi-use lighting.\n• \n Magnetic & Clip Design : Hands-free use on metal surfaces or gear with built-in magnet and clip.",
+      "bullets": [
+        "2000 Lumens High Output : Dual light sources provide strong spotlight and wide floodlight illumination.",
+        "2200mAh Rechargeable Battery : 2.5–7.5 hours runtime with USB-C fast charging and power indicator.",
+        "Rugged and Water-Resistant : Durable ABS housing with all-weather protection for outdoor use.",
+        "Headlamp Conversion : Includes adjustable headband with 180° rotation for multi-use lighting.",
+        "Magnetic & Clip Design : Hands-free use on metal surfaces or gear with built-in magnet and clip."
+      ],
+      "published_at": "2025-07-15T15:16:16+08:00",
+      "source_ref": "shopify:products.json#8786118246642",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7462-700lm-edc-flashlight",
+      "sku": "7462",
+      "name": "7462- 700 Lumen 9 Modes Rechargeable Magnetic Memory Control EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-7462-700lm-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7462-9-modes-magnetic-edc-flashlight-6951419.jpg?v=1778586812",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 700 Lumens High Output : Dual light sources provide focused spotlight and wide floodlight for everyday use.\n• \n USB-C Rechargeable Battery : 2–12 hours runtime with fast charging and battery indicator.\n• \n Water-Resistant Aluminum Build : Durable aluminum housing for reliable use in daily and outdoor environments.\n• \n 9 Lighting Modes : Floodlight (Turbo/High/Med/Low), Spotlight (High/Med/Low), Red, Red Strobe.\n• \n Magnetic & Clip Design : Dual magnets and clip for hands-free use on gear or metal surfaces.",
+      "bullets": [
+        "700 Lumens High Output : Dual light sources provide focused spotlight and wide floodlight for everyday use.",
+        "USB-C Rechargeable Battery : 2–12 hours runtime with fast charging and battery indicator.",
+        "Water-Resistant Aluminum Build : Durable aluminum housing for reliable use in daily and outdoor environments.",
+        "9 Lighting Modes : Floodlight (Turbo/High/Med/Low), Spotlight (High/Med/Low), Red, Red Strobe.",
+        "Magnetic & Clip Design : Dual magnets and clip for hands-free use on gear or metal surfaces."
+      ],
+      "published_at": "2025-07-11T16:02:51+08:00",
+      "source_ref": "shopify:products.json#8781541081330",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7536-1200lm-work-light",
+      "sku": "7536",
+      "name": "7536 - 1200 Lumen 9 Modes Rechargeable Magnetic Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 27.99,
+      "url": "https://hokolite.com/products/hokolite-7536-1200lm-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7536-9-modes-magnetic-work-light-9353049.jpg?v=1778586813",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 1200 Lumens High Output : Dual LED + COB light sources provide wide and focused illumination.\n• \n Type-C Rechargeable Battery : 3.5–9 hours runtime with fast charging for reliable use.\n• \n Water-Resistant ABS Build : Durable ABS+PC housing with IPX4 protection for all-weather use.\n• \n Dual-Sided Lighting Design : LED and COB can work independently or together for expanded coverage.\n• \n Magnetic & 360° Adjustable : Strong magnet with rotating bracket for flexible hands-free lighting.",
+      "bullets": [
+        "1200 Lumens High Output : Dual LED + COB light sources provide wide and focused illumination.",
+        "Type-C Rechargeable Battery : 3.5–9 hours runtime with fast charging for reliable use.",
+        "Water-Resistant ABS Build : Durable ABS+PC housing with IPX4 protection for all-weather use.",
+        "Dual-Sided Lighting Design : LED and COB can work independently or together for expanded coverage.",
+        "Magnetic & 360° Adjustable : Strong magnet with rotating bracket for flexible hands-free lighting."
+      ],
+      "published_at": "2025-07-01T14:42:59+08:00",
+      "source_ref": "shopify:products.json#8774574375154",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7423-200-lumen-work-light",
+      "sku": "7423",
+      "name": "7423 - 200 Lumens Rechargeable Dimmable Smart Control Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "MOTION SENSOR LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-7423-200-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7423-200-lumens-dimmable-work-light-1378201.jpg?v=1778586810",
+      "in_stock": true,
+      "tags": [],
+      "collections": [],
+      "body_text": "• \n 200 Lumens Output : Clean, natural light for artwork and display.\n• \n Rechargeable & Long Runtime : Built-in battery with up to 31 hours runtime. 3-in-1 fast charging powers three lights in 2 hours.\n• \n Durable & Easy Installation : Magnetic, adhesive, or bracket mounting options.\n• \n Adjustable Light Modes : 3 color temperatures and 12 RGB colors.\n• \n Remote & Smart Control : Dimming, timer, and memory functions included.",
+      "bullets": [
+        "200 Lumens Output : Clean, natural light for artwork and display.",
+        "Rechargeable & Long Runtime : Built-in battery with up to 31 hours runtime. 3-in-1 fast charging powers three lights in 2 hours.",
+        "Durable & Easy Installation : Magnetic, adhesive, or bracket mounting options.",
+        "Adjustable Light Modes : 3 color temperatures and 12 RGB colors.",
+        "Remote & Smart Control : Dimming, timer, and memory functions included."
+      ],
+      "published_at": "2025-06-26T15:42:21+08:00",
+      "source_ref": "shopify:products.json#8773134024946",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1569-1800-lumens-flashlight",
+      "sku": "1569",
+      "name": "1569 - 1800 Lumens Rechargeable Magnetic Detachable Neck Flashlight",
+      "brand": "Hokolite",
+      "category": "spotlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-1569-1800-lumens-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1569-1800-lumens-neck-flashlight-1473103.jpg?v=1778586812",
+      "in_stock": true,
+      "tags": [
+        "spotlight"
+      ],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 1800LM Dual Light Output : Two detachable lights for focused and wide illumination.\n• \n Rechargeable & Efficient Runtime : USB-C charging with up to 3 hours of use.\n• \n Durable & Water-Resistant : ABS body with rugged construction. Built for daily work and outdoor use.\n• \n Flexible & Hands-Free Design : Neck-worn with adjustable gooseneck.\n• \n Magnetic & Detachable Lights : Attach to metal surfaces for added versatility.",
+      "bullets": [
+        "1800LM Dual Light Output : Two detachable lights for focused and wide illumination.",
+        "Rechargeable & Efficient Runtime : USB-C charging with up to 3 hours of use.",
+        "Durable & Water-Resistant : ABS body with rugged construction. Built for daily work and outdoor use.",
+        "Flexible & Hands-Free Design : Neck-worn with adjustable gooseneck.",
+        "Magnetic & Detachable Lights : Attach to metal surfaces for added versatility."
+      ],
+      "published_at": "2025-05-06T11:50:15+08:00",
+      "source_ref": "shopify:products.json#8726311272690",
+      "observed_at": "2026-10-12",
+      "one_liner": "An 1800lm neck-worn dual light with detachable magnetic lights and a gooseneck.",
+      "key_specs": {
+        "lumens": 1800,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": 3,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Neck-worn gooseneck, dual detachable lights",
+          "benefit": "wear it hands-free and split the lights for two spots",
+          "scenarios": [
+            "dog_walking",
+            "inspection",
+            "garage"
+          ]
+        },
+        {
+          "point": "Magnetic detachable heads",
+          "benefit": "attach the lights to metal surfaces when you need to",
+          "scenarios": [
+            "auto_repair",
+            "workshop"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "dog_walking",
+        "inspection",
+        "garage",
+        "auto_repair",
+        "night_hiking"
+      ],
+      "audience": [
+        "edc",
+        "diy",
+        "mechanic",
+        "homeowner"
+      ],
+      "competitor_analogs": [
+        "Olight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7430-3000-lumen-camping-lantern",
+      "sku": "7430",
+      "name": "CLAKAP T7 - 3000 Lumens Rechargeable 5 Modes Hands-free Camping Lantern",
+      "brand": "Hokolite",
+      "category": "camping_lantern",
+      "product_type_raw": "CAMPING LIGHT",
+      "price_usd": 28.99,
+      "url": "https://hokolite.com/products/hokolite-7430-3000-lumen-camping-lantern",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7430-3000-lumens-rechargeable-camping-lantern-2130326.jpg?v=1778586812",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "camping-lanterns"
+      ],
+      "body_text": "• \n 3000 Lumens High Output : Dual LED + COB light delivers powerful long-range and wide-area illumination.\n• \n 4000mAh Rechargeable Battery : 4–12 hours runtime with USB-C charging and emergency power output.\n• \n IP44 Water-Resistant : Built for reliable use in rain, storms, and outdoor environments.\n• \n 5 Lighting Modes : LED High / COB High / COB Medium / COB Low / Red Strobe for versatile use.\n• \n Magnetic Base & Tripod Mount : Strong magnets and 1/4” thread for stable hands-free use.",
+      "bullets": [
+        "3000 Lumens High Output : Dual LED + COB light delivers powerful long-range and wide-area illumination.",
+        "4000mAh Rechargeable Battery : 4–12 hours runtime with USB-C charging and emergency power output.",
+        "IP44 Water-Resistant : Built for reliable use in rain, storms, and outdoor environments.",
+        "5 Lighting Modes : LED High / COB High / COB Medium / COB Low / Red Strobe for versatile use.",
+        "Magnetic Base & Tripod Mount : Strong magnets and 1/4” thread for stable hands-free use."
+      ],
+      "published_at": "2025-04-16T17:12:16+08:00",
+      "source_ref": "shopify:products.json#8724243546354",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 3000lm camping lantern with spot + flood output, magnetic base and tripod mount.",
+      "key_specs": {
+        "lumens": 3000,
+        "battery_mah": 4000,
+        "recharge": "USB-C",
+        "runtime_h": 12,
+        "weight_g": null,
+        "waterproof": "IP44"
+      },
+      "selling_points": [
+        {
+          "point": "LED spot + COB flood, 3000lm",
+          "benefit": "long-range and wide light from one lantern",
+          "scenarios": [
+            "camping",
+            "power_outage"
+          ]
+        },
+        {
+          "point": "Magnetic base + tripod mount",
+          "benefit": "mount hands-free on metal or on a tripod",
+          "scenarios": [
+            "camping",
+            "garage"
+          ]
+        },
+        {
+          "point": "4000mAh, 4-12h, power out",
+          "benefit": "lasts the night and doubles as a phone charger",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "camping",
+        "power_outage",
+        "emergency",
+        "garage",
+        "van_life"
+      ],
+      "audience": [
+        "camper",
+        "prepper",
+        "diy",
+        "outdoor"
+      ],
+      "competitor_analogs": [
+        "NEBO"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-favourlite-p1-800-lumen-edc-flashlight",
+      "sku": "7432",
+      "name": "FAVOURLITE P1 800LM Dimmable Rechargeable Pen Light",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "keychain flashlight",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-favourlite-p1-800-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-favourlite-p1-dimmable-recgargeable-pen-edc-flashlight-1796471.jpg?v=1778586817",
+      "in_stock": true,
+      "tags": [
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "edc-flashlights",
+        "best-sellers",
+        "new-arrivals"
+      ],
+      "body_text": "Pocket-Sized Light for Everyday Inspection \n The HOKOLITE FAVOURLITE P1 combines focused light, wide-area illumination, and hands-free mounting in a slim pen-style design for equipment checks, auto repairs, home maintenance, everyday carry, and emergencies.\n Switch from Spot to Flood: Use the 500-lumen top spotlight to inspect narrow spaces and distant details, then switch to the COB floodlight for up to 800 lumens of broader task lighting. \n Set the Brightness Your Way: Choose Spotlight, Low Flood, or High Flood, then fine-tune the output from 5% to 100% with stepless dimming for comfortable close-up work. \n Clip It and Keep Working: The magnetic clip attaches to toolboxes, vehicles, and other metal surfaces, or clips onto a pocket, hat, or backpack for convenient hands-free lighting. \n Recharge Fast and Stay Ready: Type-C charging takes approximately 2.5 hours and provides 3–8 hours of use. A low-battery flash and charging indicator help you know when it is time to recharge. \n Carry Light Without the Bulk: The waterproof aluminum body is built for everyday use, while the 5.39-inch, 1.59-ounce design fits easily into a pocket, tool bag, purse, or backpack. \n Clip it on, aim the beam, and keep reliable light close wherever the day takes you.",
+      "bullets": [],
+      "published_at": "2025-02-28T16:13:14+08:00",
+      "source_ref": "shopify:products.json#8691663700210",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7422-500-lumen-running-light",
+      "sku": "7422",
+      "name": "7422 - 500 Lumen Rechargeable Hands-free Motion Sensor Running Light",
+      "brand": "Hokolite",
+      "category": "other",
+      "product_type_raw": "RUNNING LIGHT",
+      "price_usd": 25.99,
+      "url": "https://hokolite.com/products/hokolite-7422-500-lumen-running-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7422-500-lumen-motion-sensor-running-light-7607215.jpg?v=1778586816",
+      "in_stock": true,
+      "tags": [],
+      "collections": [],
+      "body_text": "• \n 500 Lumens Output: LED and COB deliver bright, wide lighting.\n• \n 500mAh Rechargeable Battery : Full charge in 1–1.5 hours.\n• \n Durable & Water-Resistant: Silicone + ABS body with IPX4 protection.\n• \n Motion Sensor Control: Hands-free operation with wave activation.\n• \n Magnetic & Wearable Design: Clip, magnet, and headband for versatile use.",
+      "bullets": [
+        "500 Lumens Output: LED and COB deliver bright, wide lighting.",
+        "500mAh Rechargeable Battery : Full charge in 1–1.5 hours.",
+        "Durable & Water-Resistant: Silicone + ABS body with IPX4 protection.",
+        "Motion Sensor Control: Hands-free operation with wave activation.",
+        "Magnetic & Wearable Design: Clip, magnet, and headband for versatile use."
+      ],
+      "published_at": "2025-02-26T15:56:07+08:00",
+      "source_ref": "shopify:products.json#8638847910130",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1454-1200lm-edc-flashlight",
+      "sku": "1454",
+      "name": "1454 - 1200LM Adjustable Lighting Magnetic Keychain Clip EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "keychain flashlight",
+      "price_usd": 27.99,
+      "url": "https://hokolite.com/products/hokolite-1454-1200lm-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1454-1200lm-adjustable-keychain-edc-flashlight-5774747.jpg?v=1778586815",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 1200 Lumens High Output : Dual LED spotlight and COB floodlight deliver powerful and even illumination.\n• \n 500mAh Rechargeable Battery : Fast charging in 2 hours with up to 80 hours runtime on low mode with USB-C charging. \n• Water-Resistant ABS Build : Durable compact body designed for everyday and outdoor use. \n• 11 Lighting Modes : LED (High/Med/Low/Ultra-low) + COB (High/Med/Low/Red Strobe/Blue) + Turbo modes. \n• Magnetic & Clip Design : Strong magnetic base with clip and carabiner for hands-free carry and use.",
+      "bullets": [
+        "1200 Lumens High Output : Dual LED spotlight and COB floodlight deliver powerful and even illumination.",
+        "500mAh Rechargeable Battery : Fast charging in 2 hours with up to 80 hours runtime on low mode with USB-C charging.",
+        "Water-Resistant ABS Build : Durable compact body designed for everyday and outdoor use.",
+        "11 Lighting Modes : LED (High/Med/Low/Ultra-low) + COB (High/Med/Low/Red Strobe/Blue) + Turbo modes.",
+        "Magnetic & Clip Design : Strong magnetic base with clip and carabiner for hands-free carry and use."
+      ],
+      "published_at": "2025-02-26T10:17:41+08:00",
+      "source_ref": "shopify:products.json#8696590958834",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-7402-1200-lumen-headlamp",
+      "sku": "7402",
+      "name": "7402 - 1200 Lumen Rechargeable 90° Adjustable Reflective Headband Headlamp",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "Head lamp",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-7402-1200-lumen-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-7402-1200-lumen-adjustable-headlamp-2995636.jpg?v=1778586820",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "headlamps"
+      ],
+      "body_text": "• \n 1200 Lumens Output : Dual LED and COB provide wide, bright illumination.\n• \n 1500mAh Rechargeable Battery : Full charge in 1–1.5 hours. \n• \n Durable & Water-Resistant : Silicone + ABS body with IPX4 protection.\n• \n Motion Sensor & Adjustable Design : Hands-free use with 90° adjustable head.\n• \n Wide Beam & Safety Features : 260° lighting with reflective headband.",
+      "bullets": [
+        "1200 Lumens Output : Dual LED and COB provide wide, bright illumination.",
+        "1500mAh Rechargeable Battery : Full charge in 1–1.5 hours.",
+        "Durable & Water-Resistant : Silicone + ABS body with IPX4 protection.",
+        "Motion Sensor & Adjustable Design : Hands-free use with 90° adjustable head.",
+        "Wide Beam & Safety Features : 260° lighting with reflective headband."
+      ],
+      "published_at": "2024-12-23T14:03:07+08:00",
+      "source_ref": "shopify:products.json#8638224040178",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1466-900-lumens-motion-sensor-light",
+      "sku": "1466",
+      "name": "HOPEDONE S2- 900 Lumen 3-in-1 Dimmable RGB Distant Control Motion Sensor Light",
+      "brand": "Hokolite",
+      "category": "other",
+      "product_type_raw": "MOTION SENSOR LIGHT",
+      "price_usd": 53.99,
+      "url": "https://hokolite.com/products/hokolite-1466-900-lumens-motion-sensor-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1466-3-in-1-dimmable-rgb-motion-sensor-light-5398709.jpg?v=1778586820",
+      "in_stock": true,
+      "tags": [],
+      "collections": [],
+      "body_text": "• \n 900mAh Rechargeable Battery: Up to 60 days on sensor mode with USB-C charging (10 activations per day, lasting 25 seconds) \n• 15 RGB Colors & Dynamic Effects : Multiple colors to freely decorate space. \n• 3-in-1 Modular Design: All-Day & Night Sensor + Always-On with auto on/off and memory function for versatile use. \n• \n Distant Control : Adjust lighting modes, brightness, and timer settings with a simple remote. \n• \n  900 Lumens Eye-Care Gradual Brightening : 25%, 50%, 75%, and 100% brightness levels with soft start to protect eyes.",
+      "bullets": [
+        "900mAh Rechargeable Battery: Up to 60 days on sensor mode with USB-C charging (10 activations per day, lasting 25 seconds)",
+        "15 RGB Colors & Dynamic Effects : Multiple colors to freely decorate space.",
+        "3-in-1 Modular Design: All-Day & Night Sensor + Always-On with auto on/off and memory function for versatile use.",
+        "Distant Control : Adjust lighting modes, brightness, and timer settings with a simple remote.",
+        "900 Lumens Eye-Care Gradual Brightening : 25%, 50%, 75%, and 100% brightness levels with soft start to protect eyes."
+      ],
+      "published_at": "2024-10-09T11:53:10+08:00",
+      "source_ref": "shopify:products.json#8597512880370",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1487-1800-lumen-camping-lantern",
+      "sku": "1487",
+      "name": "1487 - 1800 Lumen 180° Adjustable Rechargeable Multi-Mode Camping Lantern",
+      "brand": "Hokolite",
+      "category": "camping_lantern",
+      "product_type_raw": "CAMPING LIGHT",
+      "price_usd": 69.99,
+      "url": "https://hokolite.com/products/hokolite-1487-1800-lumen-camping-lantern",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1487-1800-lumen-adjustable-camping-lantern-8247320.jpg?v=1778586821",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "camping-lanterns"
+      ],
+      "body_text": "• \n 1800 Lumens Output: Bright 360° COB lighting delivers clear, full-area illumination for camping and outdoor use.\n• \n 10000mAh Rechargeable Battery: Provides 6–60 hours of runtime and supports power bank function for outdoor use. \n• Durable & Water-Resistant: ABS body with aluminum head ensures reliable performance in outdoor conditions. \n• Telescopic & Adjustable Design: Extendable up to 45” with 180° adjustable head for precise lighting direction. \n• Multi-Mode Lighting: 3 color temperatures and RGB modes with adjustable brightness for different scenes.",
+      "bullets": [
+        "1800 Lumens Output: Bright 360° COB lighting delivers clear, full-area illumination for camping and outdoor use.",
+        "10000mAh Rechargeable Battery: Provides 6–60 hours of runtime and supports power bank function for outdoor use.",
+        "Durable & Water-Resistant: ABS body with aluminum head ensures reliable performance in outdoor conditions.",
+        "Telescopic & Adjustable Design: Extendable up to 45” with 180° adjustable head for precise lighting direction.",
+        "Multi-Mode Lighting: 3 color temperatures and RGB modes with adjustable brightness for different scenes."
+      ],
+      "published_at": "2024-07-16T13:40:05+08:00",
+      "source_ref": "shopify:products.json#8505595625714",
+      "observed_at": "2026-10-12",
+      "one_liner": "An 1800lm telescopic camping lantern with a 10000mAh power bank and RGB modes.",
+      "key_specs": {
+        "lumens": 1800,
+        "battery_mah": 10000,
+        "recharge": "USB-C",
+        "runtime_h": 60,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Telescopic to 45in, 180° head",
+          "benefit": "raise it high for wide coverage and angle the head where needed",
+          "scenarios": [
+            "camping",
+            "van_life",
+            "power_outage"
+          ]
+        },
+        {
+          "point": "10000mAh, 6-60h, power bank",
+          "benefit": "runs for days and charges devices in an outage",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        },
+        {
+          "point": "3 color temps + RGB",
+          "benefit": "set the mood or a bright work light",
+          "scenarios": [
+            "camping",
+            "van_life"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "camping",
+        "van_life",
+        "power_outage",
+        "emergency",
+        "backpacking"
+      ],
+      "audience": [
+        "camper",
+        "prepper",
+        "outdoor",
+        "homeowner"
+      ],
+      "competitor_analogs": [
+        "NEBO",
+        "Coleman"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-lexall-e1-1600-lumen-edc-flashlight",
+      "sku": "1305",
+      "name": "LEXALL E1 - 1600 Lumen Rechargeable Hands-free Dual Light EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 26.99,
+      "url": "https://hokolite.com/products/hokolite-lexall-e1-1600-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-lexall-e1-1600-lumen-dual-light-edc-flashlight-7062257.jpg?v=1778586820",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "edc-flashlights",
+        "best-sellers"
+      ],
+      "body_text": "Slim Everyday Light for Work and Adventure \n The HOKOLITE LEXALL E1 brings wide floodlighting, focused illumination, and hands-free mounting into a slim pocket design for auto repairs, home projects, camping, everyday carry, and emergencies.\n Light Wide or Look Farther: Use the COB floodlight across workbenches, vehicle areas, and campsites, or switch to the LED spotlight for equipment checks and distant targets. Press and hold to activate up to 1,200 lumens in Turbo mode. \n Carry It Without the Bulk: At only 0.59 inches thick and 2.7 oz, the flat, non-roll body slips easily into a pocket, tool bag, or vehicle compartment. \n Mount It and Free Your Hands: Dual magnets on the back and base attach to car hoods, steel shelving, and machinery, while the metal clip secures the light to a belt or tool bag. \n Keep Useful Light Running Longer: The built-in 1200mAh rechargeable battery provides 3–8 hours of runtime depending on the mode and recharges by USB-C in approximately three hours. \n Find It Fast After Dark: IPX4 water resistance supports use in damp conditions, while the glow-in-the-dark ring helps you locate the light inside a tent, vehicle, or crowded toolbox. \n Slim enough for every day. Versatile enough for wherever the day takes you.",
+      "bullets": [],
+      "published_at": "2024-02-02T13:53:33+08:00",
+      "source_ref": "shopify:products.json#8096746438898",
+      "observed_at": "2026-10-12",
+      "one_liner": "A slim 1600lm EDC flashlight with dual spot/flood light and hands-free mounting.",
+      "key_specs": {
+        "lumens": 1600,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Dual light: COB flood + LED spot",
+          "benefit": "wide light for benches and campsites, spot for equipment checks",
+          "scenarios": [
+            "garage",
+            "camping",
+            "inspection"
+          ]
+        },
+        {
+          "point": "Slim pocket design, hands-free mount",
+          "benefit": "carry daily and mount it for hands-free use",
+          "scenarios": [
+            "edc",
+            "auto_repair"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "edc",
+        "garage",
+        "auto_repair",
+        "camping",
+        "inspection",
+        "power_outage"
+      ],
+      "audience": [
+        "edc",
+        "diy",
+        "mechanic",
+        "camper"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "Wurkkos"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1332-1200-lumen-work-light",
+      "sku": "1332",
+      "name": "UNIBRITE F9 - 1200 Lumen 160° Adjustable Rechargeable Hands-free Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 26.99,
+      "url": "https://hokolite.com/products/hokolite-1332-1200-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1332-1200-lumen-adjustable-work-light-2806162.jpg?v=1778586820",
+      "in_stock": true,
+      "tags": [
+        "rechargeable spotlight",
+        "spotlight"
+      ],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 1200 Lumens Output : Dual LED and COB deliver focused and wide illumination for work and outdoor use.\n• \n 2000mAh Rechargeable Battery : Provides 9 hours of runtime with fast USB-C charging.\n• \n Durable & Weather-Resistant : ABS body ensures reliable performance in tough and humid environments.\n• \n Magnetic Base & Hook Design : Strong magnet and hooks enable secure hands-free use in various setups.\n• \n Adjustable Multi-Angle Lighting : 160° swivel head allows flexible positioning for precise illumination.",
+      "bullets": [
+        "1200 Lumens Output : Dual LED and COB deliver focused and wide illumination for work and outdoor use.",
+        "2000mAh Rechargeable Battery : Provides 9 hours of runtime with fast USB-C charging.",
+        "Durable & Weather-Resistant : ABS body ensures reliable performance in tough and humid environments.",
+        "Magnetic Base & Hook Design : Strong magnet and hooks enable secure hands-free use in various setups.",
+        "Adjustable Multi-Angle Lighting : 160° swivel head allows flexible positioning for precise illumination."
+      ],
+      "published_at": "2024-02-01T11:24:18+08:00",
+      "source_ref": "shopify:products.json#8095632949490",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1327-2600-lumen-work-light",
+      "sku": "1327",
+      "name": "CLAKAP U2- 2600 Lumen Rechargeable Underhood Extendable Work Light For Car Repair & Garage",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 44.99,
+      "url": "https://hokolite.com/products/hokolite-1327-2600-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/1327.jpg?v=1783049877",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "best-sellers"
+      ],
+      "body_text": "Full-Bay Lighting. Close-Up Flexibility. \n Designed for auto repairs and vehicle inspections, the HOKOLITE CLAKAP U2 stretches across the hood to illuminate the entire engine bay—then detaches for focused lighting wherever the job takes you. \n Light Up the Entire Engine Bay \n The 14.9-inch COB panel delivers up to 2,600 lumens of bright, 6000K white light, helping you see wiring, belts, bolts, fluids, and other components with fewer shadows. \n One Light Fits More Vehicles \n The flexible mounting system adjusts from 31.5 to 110.2 inches, making it suitable for sedans, SUVs, pickup trucks, and commercial vans. \n Detach It for Close-Up Repairs \n Remove the lamp from the mounting system and use its built-in magnets to secure it to toolboxes, workbenches, vehicle panels, and other metal surfaces. \n Secure the Light Without Scratching the Hood \n Foam-padded adjustable hooks help protect painted hood edges, while 360° rotating end buckles let you direct the light exactly where you need it. \n Work Cord-Free, Then Fold It Away \n The built-in 5000mAh rechargeable battery provides up to 4 hours of runtime at 2,600 lumens or 7.5 hours at 1,300 lumens. Weighing only 0.92 lb, the foldable design stores easily in a toolbox, vehicle, or garage cabinet. \n Stretch it across the hood for full-bay coverage. Detach it when the repair calls for a closer look.",
+      "bullets": [],
+      "published_at": "2023-12-22T17:59:38+08:00",
+      "source_ref": "shopify:products.json#8066538275058",
+      "observed_at": "2026-10-12",
+      "one_liner": "An extendable underhood work light that stretches across the engine bay, then detaches for close-up work.",
+      "key_specs": {
+        "lumens": 2600,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Extendable underhood bar (31.5 to 110.2 in)",
+          "benefit": "one light fits sedans, SUVs and trucks by spanning the whole engine bay",
+          "scenarios": [
+            "auto_repair",
+            "garage",
+            "workshop"
+          ]
+        },
+        {
+          "point": "14.9-inch COB panel, 2600lm",
+          "benefit": "lights wiring, belts and fluids with fewer shadows across the bay",
+          "scenarios": [
+            "auto_repair",
+            "inspection"
+          ]
+        },
+        {
+          "point": "Detachable for focused lighting",
+          "benefit": "pull a section off the bar for close-up work anywhere",
+          "scenarios": [
+            "auto_repair",
+            "inspection"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "auto_repair",
+        "garage",
+        "workshop",
+        "inspection"
+      ],
+      "audience": [
+        "mechanic",
+        "diy",
+        "tradesman"
+      ],
+      "competitor_analogs": [
+        "NEBO",
+        "Olight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1313-1300-lumens-headlamp",
+      "sku": "1313",
+      "name": "HOKOILN R1 2PACK - 1300LM 7 Modes Memory Function Adjustable Motion Sensor Headlamp",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "Head lamp",
+      "price_usd": 39.99,
+      "url": "https://hokolite.com/products/hokolite-1313-1300-lumens-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1313-7-modes-motion-sensor-headlamp-3316664.jpg?v=1778586821",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "headlamps",
+        "best-sellers"
+      ],
+      "body_text": "Two Headlamps for More Confident Nights Outdoors \n The HOKOLITE HOKOILN R1 two-pack combines distance lighting, wide-area visibility, and night-friendly colors for hiking, running, camping, fishing, hunting, repairs, and emergencies.\n See the Trail and the Area Around You: Up to 1,300 lumens pair an XPG spotlight with COB floodlighting, making it easy to switch between distant paths and nearby tasks.\n Choose a Color for the Moment: Use white light for everyday visibility, green light for nighttime observation, or red light for campsite reading, stargazing, and low-glare situations.\n Follow Changing Terrain: The lamp tilts through 90° so you can aim ahead on level trails, lower the beam on climbs, or direct it toward your footing on descents.\n Stay Focused with Touch-Free Control: Smart motion sensing provides convenient light control when your hands are occupied with tools, fishing gear, or outdoor equipment.\n Share One or Keep a Spare: The two-pack makes it easy to equip a partner or store a backup. Each rechargeable headlamp runs for up to 8 hours, charges by USB-C in approximately 3 hours, and features IPX4 water resistance.\n Wear one, share one, and keep dependable light ready for whatever happens after dark.",
+      "bullets": [],
+      "published_at": "2023-08-15T11:02:35+08:00",
+      "source_ref": "shopify:products.json#7936277479666",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-2010-800-lumens-headlamp",
+      "sku": "2010",
+      "name": "2010- 800 Lumen Dual LED Dimmable Hands-free Headlamp",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "Head lamp",
+      "price_usd": 30.99,
+      "url": "https://hokolite.com/products/hokolite-2010-800-lumens-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-2010-dual-led-dimmable-headlamp-2727883.jpg?v=1778586821",
+      "in_stock": true,
+      "tags": [
+        "Hat Light"
+      ],
+      "collections": [
+        "headlamps"
+      ],
+      "body_text": "• \n Dual LED System : Spot light + flood light for both focused beam and wide-area illumination.\n• \n Multi-Angle Adjustment : Hat clip rotates 180° and side LED adjusts 90° for flexible lighting direction.\n• \n 800 Lumens Powerful lighting:  Adjustable brightness from 800 to 10 lumens for flexible use.\n• \n Multi-Use Design: Can be used with clip, hanging hook, or headband for different situations.\n• \n Long Battery Life: 1000 mAH up to 80 hours of runtime on the low brightness setting.",
+      "bullets": [
+        "Dual LED System : Spot light + flood light for both focused beam and wide-area illumination.",
+        "Multi-Angle Adjustment : Hat clip rotates 180° and side LED adjusts 90° for flexible lighting direction.",
+        "800 Lumens Powerful lighting:  Adjustable brightness from 800 to 10 lumens for flexible use.",
+        "Multi-Use Design: Can be used with clip, hanging hook, or headband for different situations.",
+        "Long Battery Life: 1000 mAH up to 80 hours of runtime on the low brightness setting."
+      ],
+      "published_at": "2023-05-26T16:54:21+08:00",
+      "source_ref": "shopify:products.json#7913949462770",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0121-motion-sensor-light",
+      "sku": "‎0121",
+      "name": "HOKOLITE 0121 - 3 Modes Rechargeable Stick On Compact Motion Sensor Light",
+      "brand": "Hokolite",
+      "category": "other",
+      "product_type_raw": "MOTION SENSOR LIGHT",
+      "price_usd": 25.99,
+      "url": "https://hokolite.com/products/hokolite-0121-motion-sensor-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0121-3-modes-rechargeable-stick-on-motion-sensor-light-9323312.png?v=1778586821",
+      "in_stock": true,
+      "tags": [
+        "light",
+        "motion",
+        "rechargeable",
+        "sensor"
+      ],
+      "collections": [],
+      "body_text": "• \n High Bright LED Output: 78 LEDs deliver bright and even illumination for closets and indoor spaces.\n• \n 1500mAh Rechargeable Battery: Provides up to 60 days of runtime with USB charging.\n• \n Durable & Compact Design: Aluminum alloy body ensures reliable performance in daily indoor use.\n• \n Motion Sensor Control: Automatically activates in darkness to save energy and improve efficiency.\n• \n Easy Installation Design: Peel-and-stick mounting allows quick and wireless setup anywhere.",
+      "bullets": [
+        "High Bright LED Output: 78 LEDs deliver bright and even illumination for closets and indoor spaces.",
+        "1500mAh Rechargeable Battery: Provides up to 60 days of runtime with USB charging.",
+        "Durable & Compact Design: Aluminum alloy body ensures reliable performance in daily indoor use.",
+        "Motion Sensor Control: Automatically activates in darkness to save energy and improve efficiency.",
+        "Easy Installation Design: Peel-and-stick mounting allows quick and wireless setup anywhere."
+      ],
+      "published_at": "2023-03-29T11:03:25+08:00",
+      "source_ref": "shopify:products.json#7897401327858",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0108-work-light",
+      "sku": "0108",
+      "name": "INNOFOX X1 - 1500 Lumen Rechargeable 4 Light Modes Magnetic Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 35.99,
+      "url": "https://hokolite.com/products/hokolite-0108-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0108-4-modes-magnetic-work-light-5095621.jpg?v=1778586859",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "best-sellers"
+      ],
+      "body_text": "Two Lights Ready for Wherever the Work Starts \n The HOKOLITE INNOFOX X1 two-light set is made for garage repairs, vehicle checks, home maintenance, camping, and storm outages. Its compact design makes it easy to keep dependable lighting close to your tools, vehicle, or emergency gear.\n Cover More Than One Area: Use the two lights around an engine bay, workbench, campsite, or separate task zones when one fixed light is not enough. \n Go Wide or Focus In: The 1,500-lumen COB light offers high and medium flood modes, plus a spotlight and red strobe for repairs, focused checks, and emergency signaling. \n Set Up the Light Your Way: A magnetic base, hanging hook, adjustable stand, and tripod-mountable design provide flexible hands-free placement around the job. \n Made for Everyday Work Conditions: Splash-resistant construction handles water from different angles, while the industrial-grade plastic and aluminum alloy build withstands drops of up to 5 feet. \n Keep Backup Power Nearby: The light runs for around 8 hours in Low or Strobe mode, and its USB output can provide temporary charging for a phone or other mobile device. \n Two portable lights. More freedom to place light exactly where the moment calls for it.",
+      "bullets": [],
+      "published_at": "2023-03-01T15:51:01+08:00",
+      "source_ref": "shopify:products.json#7884055118066",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0107-1500-lumen-work-light",
+      "sku": "0107",
+      "name": "HOKOLITE 0107 - 1500 Lumen Rechargeable 12 Modes Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 22.99,
+      "url": "https://hokolite.com/products/hokolite-0107-1500-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0107-1500-lumen-12-modes-work-light-8154634.jpg?v=1778586860",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 1500 Lumens Output : Bright LED delivers powerful illumination for workspaces, tents, and engine areas.\n• \n 2500mAh Rechargeable Battery : Provides 10 hours of runtime and supports emergency device charging.\n• \n Durable & Impact-Resistant : ABS body ensures reliable performance for indoor and outdoor use.\n• \n Multi-Mount Design : Magnet, hook, and tripod mount enable flexible hands-free setup.\n• \n 12 Lighting Modes : Multiple color temperatures and special modes support different tasks and conditions.",
+      "bullets": [
+        "1500 Lumens Output : Bright LED delivers powerful illumination for workspaces, tents, and engine areas.",
+        "2500mAh Rechargeable Battery : Provides 10 hours of runtime and supports emergency device charging.",
+        "Durable & Impact-Resistant : ABS body ensures reliable performance for indoor and outdoor use.",
+        "Multi-Mount Design : Magnet, hook, and tripod mount enable flexible hands-free setup.",
+        "12 Lighting Modes : Multiple color temperatures and special modes support different tasks and conditions."
+      ],
+      "published_at": "2023-01-12T16:01:56+08:00",
+      "source_ref": "shopify:products.json#7860185628914",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-3436-2000-lumen-work-light",
+      "sku": "3436",
+      "name": "HOKOLITE 3436 - 2000 Lumen Magnetic Hook 360° Adjustable Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 37.99,
+      "url": "https://hokolite.com/products/hokolite-3436-2000-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-3436-2000-lumen-magnetic-hook-work-light-2879742.jpg?v=1778586860",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 2000 Lumens Output: High-power LED delivers bright, stable illumination for workbenches and detailed tasks.\n• \n 5000mAh Rechargeable Battery: Provides 5–18 hours of runtime and supports device charging with USB ports.\n• \n Durable & Work-Ready Design: Aluminum head and reinforced gooseneck ensure long-lasting performance in demanding environments.\n• \n Flexible Gooseneck Design: 360° adjustable neck allows precise lighting in tight and complex spaces.\n• \n Magnetic Base & Hook Design: Strong magnet and hanging hook enable secure hands-free positioning.",
+      "bullets": [
+        "2000 Lumens Output: High-power LED delivers bright, stable illumination for workbenches and detailed tasks.",
+        "5000mAh Rechargeable Battery: Provides 5–18 hours of runtime and supports device charging with USB ports.",
+        "Durable & Work-Ready Design: Aluminum head and reinforced gooseneck ensure long-lasting performance in demanding environments.",
+        "Flexible Gooseneck Design: 360° adjustable neck allows precise lighting in tight and complex spaces.",
+        "Magnetic Base & Hook Design: Strong magnet and hanging hook enable secure hands-free positioning."
+      ],
+      "published_at": "2023-01-05T10:02:16+08:00",
+      "source_ref": "shopify:products.json#7857108615410",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 2000lm magnetic work light with a 360° gooseneck and hook for workbenches and tight spaces.",
+      "key_specs": {
+        "lumens": 2000,
+        "battery_mah": 5000,
+        "recharge": "USB-C",
+        "runtime_h": 18,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "360° flexible gooseneck",
+          "benefit": "bends into tight, complex spaces to light the exact spot",
+          "scenarios": [
+            "workshop",
+            "garage",
+            "inspection"
+          ]
+        },
+        {
+          "point": "Magnetic base + hanging hook",
+          "benefit": "mounts hands-free on metal or hangs overhead",
+          "scenarios": [
+            "garage",
+            "auto_repair"
+          ]
+        },
+        {
+          "point": "5000mAh, 5-18h, USB power out",
+          "benefit": "long runtime plus backup charging for devices",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "workshop",
+        "garage",
+        "auto_repair",
+        "inspection",
+        "power_outage"
+      ],
+      "audience": [
+        "diy",
+        "mechanic",
+        "tradesman"
+      ],
+      "competitor_analogs": [
+        "NEBO",
+        "Olight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0106-1200-lumen-work-light",
+      "sku": "0106",
+      "name": "HOKOLITE 0106 - 1200 Lumen Rechargeable 15 Modes Hands-free Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 22.99,
+      "url": "https://hokolite.com/products/hokolite-0106-1200-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0106-1200-lumen-15-modes-work-light-4441908.jpg?v=1778586860",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 1200 Lumens Output: COB LED delivers bright, wide illumination for workspaces, repairs, and outdoor use.\n• \n 4000mAh Rechargeable Battery: Provides 4–12 hours of runtime and supports emergency device charging.\n• \n Rugged and Water-Resistant : Durable housing with IPX4 protection for everyday work environments.\n• \n Magnetic & Multi-Mount Design: Dual magnets, hook, and tripod mount enable flexible hands-free setup.\n• \n 15 Lighting Modes: Multiple color temperatures and special modes support different tasks and conditions.",
+      "bullets": [
+        "1200 Lumens Output: COB LED delivers bright, wide illumination for workspaces, repairs, and outdoor use.",
+        "4000mAh Rechargeable Battery: Provides 4–12 hours of runtime and supports emergency device charging.",
+        "Rugged and Water-Resistant : Durable housing with IPX4 protection for everyday work environments.",
+        "Magnetic & Multi-Mount Design: Dual magnets, hook, and tripod mount enable flexible hands-free setup.",
+        "15 Lighting Modes: Multiple color temperatures and special modes support different tasks and conditions."
+      ],
+      "published_at": "2022-12-09T18:01:35+08:00",
+      "source_ref": "shopify:products.json#7844952867058",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0112-1200-lumen-headlamp",
+      "sku": "0112",
+      "name": "HOKOLITE 0112 - 1200 Lumen Rechargeable 6 Light Modes Beanie Headlamp",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "Head lamp",
+      "price_usd": 24.99,
+      "url": "https://hokolite.com/products/hokolite-0112-1200-lumen-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0112-1200-lumen-beanie-headlamp-9862912.jpg?v=1778586862",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "headlamps"
+      ],
+      "body_text": "• \n 1200 Lumens Output: Wide 230° beam delivers bright, full-area illumination without head movement.\n• \n Rechargeable Battery: Provides 4–10 hours of runtime with fast USB-C charging.\n• \n Warm & Comfortable Design: Soft acrylic material ensures warmth and comfort for outdoor use.\n• \n 6 Lighting Modes: Headlight and red taillight modes provide flexible lighting and added safety.\n• \n Wearable & Practical Design: Stretchable beanie is washable with removable light module for easy care and long-term use.",
+      "bullets": [
+        "1200 Lumens Output: Wide 230° beam delivers bright, full-area illumination without head movement.",
+        "Rechargeable Battery: Provides 4–10 hours of runtime with fast USB-C charging.",
+        "Warm & Comfortable Design: Soft acrylic material ensures warmth and comfort for outdoor use.",
+        "6 Lighting Modes: Headlight and red taillight modes provide flexible lighting and added safety.",
+        "Wearable & Practical Design: Stretchable beanie is washable with removable light module for easy care and long-term use."
+      ],
+      "published_at": "2022-12-04T20:02:11+08:00",
+      "source_ref": "shopify:products.json#7826792775922",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6865-1500-lumen-bike-light",
+      "sku": "6865",
+      "name": "HOKOLITE 6865 - 1500 Lumen Rechargeable Multi-Mode Front Rear Bike Light",
+      "brand": "Hokolite",
+      "category": "bike_light",
+      "product_type_raw": "Bike Lights",
+      "price_usd": 39.99,
+      "url": "https://hokolite.com/products/hokolite-6865-1500-lumen-bike-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-6865-1500-lumen-multi-mode-bike-light-5864644.jpg?v=1778586861",
+      "in_stock": true,
+      "tags": [
+        "Bicycle Headlight",
+        "BIKE LIGHT SET"
+      ],
+      "collections": [
+        "best-sellers"
+      ],
+      "body_text": "• \n 1500 Lumens Output: High-performance headlight delivers bright illumination for road and mountain riding.\n• \n 1200mAh Rechargeable Battery: Provides up to 8 hours of runtime with USB charging.\n• \n Durable & Waterproof: Aluminum body ensures reliable performance in all weather conditions.\n• \n Front & Rear Light Set: Includes headlight and taillight for enhanced 360° visibility and safety.\n• \n Multi-Mode Lighting: Multiple modes for front and rear lights support different riding conditions.",
+      "bullets": [
+        "1500 Lumens Output: High-performance headlight delivers bright illumination for road and mountain riding.",
+        "1200mAh Rechargeable Battery: Provides up to 8 hours of runtime with USB charging.",
+        "Durable & Waterproof: Aluminum body ensures reliable performance in all weather conditions.",
+        "Front & Rear Light Set: Includes headlight and taillight for enhanced 360° visibility and safety.",
+        "Multi-Mode Lighting: Multiple modes for front and rear lights support different riding conditions."
+      ],
+      "published_at": "2022-06-14T17:00:38+08:00",
+      "source_ref": "shopify:products.json#7684391928050",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 1500lm front/rear bike light set with up to 8h runtime and 360° visibility.",
+      "key_specs": {
+        "lumens": 1500,
+        "battery_mah": 1200,
+        "recharge": "USB",
+        "runtime_h": 8,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "Front + rear light set",
+          "benefit": "see the road and be seen from behind for 360° safety",
+          "scenarios": [
+            "bike_commute"
+          ]
+        },
+        {
+          "point": "1500lm headlight, up to 8h",
+          "benefit": "bright enough for road and trail riding, lasts the ride",
+          "scenarios": [
+            "bike_commute"
+          ]
+        },
+        {
+          "point": "Aluminum, waterproof, multi-mode",
+          "benefit": "handles all weather with modes for different conditions",
+          "scenarios": [
+            "bike_commute"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "bike_commute"
+      ],
+      "audience": [
+        "cyclist",
+        "outdoor"
+      ],
+      "competitor_analogs": [
+        "Cygolite",
+        "NiteRider"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-4884-200-lumen-running-light",
+      "sku": "4884",
+      "name": "HOKOLITE R7 - 200 Lumen 3 Modes Rechargeable Magnetic Running Light",
+      "brand": "Hokolite",
+      "category": "other",
+      "product_type_raw": "RUNNING LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-4884-200-lumen-running-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-4884-3-modes-rechargeable-magnetic-running-light-9222900.jpg?v=1778586861",
+      "in_stock": true,
+      "tags": [
+        "running lights"
+      ],
+      "collections": [],
+      "body_text": "• \n 200 Lumens Output: Bright LED delivers clear visibility up to 160 ft for safe night running.\n• \n 300mAh Rechargeable Battery: Provides up to 2–10 hours of runtime with USB charging.\n• \n Durable & Weather-Resistant: ABS and silicone body ensures reliable performance in all weather conditions.\n• \n Magnetic Clip Design: Strong magnet and clip enable secure attachment to clothing or gear.\n• \n 3 Lighting Modes: High, medium, and strobe modes support different visibility needs.",
+      "bullets": [
+        "200 Lumens Output: Bright LED delivers clear visibility up to 160 ft for safe night running.",
+        "300mAh Rechargeable Battery: Provides up to 2–10 hours of runtime with USB charging.",
+        "Durable & Weather-Resistant: ABS and silicone body ensures reliable performance in all weather conditions.",
+        "Magnetic Clip Design: Strong magnet and clip enable secure attachment to clothing or gear.",
+        "3 Lighting Modes: High, medium, and strobe modes support different visibility needs."
+      ],
+      "published_at": "2022-04-07T10:46:05+08:00",
+      "source_ref": "shopify:products.json#7619721986290",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0088-1000-lumen-running-light",
+      "sku": "0088",
+      "name": "HOKOLITE 0088 - 1000 Lumen Rechargeable Wearable Dual-Zone Safety Running Light",
+      "brand": "Hokolite",
+      "category": "other",
+      "product_type_raw": "RUNNING LIGHT",
+      "price_usd": 31.99,
+      "url": "https://hokolite.com/products/hokolite-0088-1000-lumen-running-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0088-1000-lumen-wearable-running-light-8119119.jpg?v=1778586862",
+      "in_stock": true,
+      "tags": [
+        "running light belt"
+      ],
+      "collections": [],
+      "body_text": "• \n 1000 Lumens Output: Wide 230° beam delivers bright, full-area illumination for safe night running.\n• \n 1000mAh Rechargeable Battery: Provides 4–10 hours of runtime with USB-C charging.\n• \n Durable & Comfortable Design: Silicone and ABS materials with waterproof waist belt ensure stable and reliable outdoor use.\n• \n Front & Rear Lighting Modes: COB front light and red tail light provide flexible lighting and added safety.\n• \n Wearable & Storage Design: Adjustable waist belt is washable and detachable with secure fit and convenient storage.",
+      "bullets": [
+        "1000 Lumens Output: Wide 230° beam delivers bright, full-area illumination for safe night running.",
+        "1000mAh Rechargeable Battery: Provides 4–10 hours of runtime with USB-C charging.",
+        "Durable & Comfortable Design: Silicone and ABS materials with waterproof waist belt ensure stable and reliable outdoor use.",
+        "Front & Rear Lighting Modes: COB front light and red tail light provide flexible lighting and added safety.",
+        "Wearable & Storage Design: Adjustable waist belt is washable and detachable with secure fit and convenient storage."
+      ],
+      "published_at": "2022-03-24T17:42:03+08:00",
+      "source_ref": "shopify:products.json#7596716949746",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6829-1300-lumen-headlamp",
+      "sku": "6829",
+      "name": "HOKOLITE 6829 - 1300 Lumen Rechargeable 90° Adjustable Motion Sensor Headlamp",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "",
+      "price_usd": 44.99,
+      "url": "https://hokolite.com/products/hokolite-6829-1300-lumen-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-6829-rechargeable-motion-sensor-headlamp-8473134.jpg?v=1778586862",
+      "in_stock": true,
+      "tags": [
+        "LED HEAD LAMP"
+      ],
+      "collections": [
+        "work-lights",
+        "headlamps",
+        "best-sellers"
+      ],
+      "body_text": "See More Around You Without Slowing Down \n Built for night runs, hiking, camping, repairs, and low-light work, the HOKOLITE 6829 combines a wide field of view with focused illumination for both movement and hands-on tasks.\n Open Up Your Field of View: Dual light sources deliver up to 1,300 lumens across a 230° wide beam, helping illuminate trails, campsites, garages, and dark work areas. \n Bring the Details into Focus: Tilt the spotlight up to 90° to direct light toward the ground, inside equipment, or exactly where your hands are working. \n Control the Light with a Wave: Activate motion-sensor mode for touch-free operation when your hands are busy with tools, camping gear, or outdoor equipment. \n Wear Light Without the Bulk: The 4.66 oz design pairs with a durable elastic headband for convenient head-mounted lighting while running, hiking, or working. \n Recharge and Head Back Out: The built-in 2000mAh battery provides up to 5 hours of runtime and recharges by USB-C in approximately 1–1.5 hours. Its IPX4 construction handles splashes and changing outdoor conditions. \n Wide light for awareness. Focused light for the task ahead.",
+      "bullets": [],
+      "published_at": "2022-03-10T13:39:25+08:00",
+      "source_ref": "shopify:products.json#7578365001970",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 1300lm motion-sensor headlamp with a 230° wide beam for night runs, hiking and repairs.",
+      "key_specs": {
+        "lumens": 1300,
+        "battery_mah": null,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "230° wide beam, 1300lm",
+          "benefit": "see more around you without turning your head on the move",
+          "scenarios": [
+            "night_hiking",
+            "hiking",
+            "camping",
+            "garage"
+          ]
+        },
+        {
+          "point": "Motion sensor control",
+          "benefit": "wave to switch the light on and off with dirty or full hands",
+          "scenarios": [
+            "auto_repair",
+            "workshop"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "night_hiking",
+        "hiking",
+        "camping",
+        "garage",
+        "auto_repair",
+        "dog_walking"
+      ],
+      "audience": [
+        "hiker",
+        "camper",
+        "diy",
+        "mechanic",
+        "outdoor"
+      ],
+      "competitor_analogs": [
+        "Fenix",
+        "Nitecore",
+        "Olight"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6768-600-lumen-edc-flashlight",
+      "sku": "6768",
+      "name": "HOKOLITE 6768 - 600 Lumen 3 Modes Magnetic Clip EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-6768-600-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-6768-3-modes-magnetic-clip-edc-flashlight-7842320.jpg?v=1778586868",
+      "in_stock": true,
+      "tags": [
+        "Keychain Flashlight",
+        "LED WORK LIGHT"
+      ],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 600 Lumens Output: LED and COB deliver focused and wide illumination for inspection and repair tasks.\n• \n 800mAh Rechargeable Battery: Provides up to 3–5 hours of runtime with fast USB charging.\n• \n Durable & Portable Design: Compact aluminum body ensures reliable performance for daily and work use.\n• \n Magnetic & Clip Design: Strong magnet and pocket clip enable secure hands-free use in various situations.\n• \n 3 Lighting Modes: LED and COB modes provide flexible lighting for different needs.",
+      "bullets": [
+        "600 Lumens Output: LED and COB deliver focused and wide illumination for inspection and repair tasks.",
+        "800mAh Rechargeable Battery: Provides up to 3–5 hours of runtime with fast USB charging.",
+        "Durable & Portable Design: Compact aluminum body ensures reliable performance for daily and work use.",
+        "Magnetic & Clip Design: Strong magnet and pocket clip enable secure hands-free use in various situations.",
+        "3 Lighting Modes: LED and COB modes provide flexible lighting for different needs."
+      ],
+      "published_at": "2022-01-05T18:14:41+08:00",
+      "source_ref": "shopify:products.json#7066749042853",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6740-6000-lumens-flashlight",
+      "sku": "6740",
+      "name": "HOKOLITE 6740 - 6000 Lumen Waterproof Rechargeable Flashlight for Emergency",
+      "brand": "Hokolite",
+      "category": "spotlight",
+      "product_type_raw": "FLASHLIGHT",
+      "price_usd": 85.99,
+      "url": "https://hokolite.com/products/hokolite-6740-6000-lumens-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-6740-6000-lumens-adjustable-flashlight-5596661.jpg?v=1778586862",
+      "in_stock": true,
+      "tags": [
+        "rechargeable spotlight",
+        "spotlight"
+      ],
+      "collections": [],
+      "body_text": "• \n 6000 Lumens Output: High-intensity beam reaches up to 900 meters for long-distance illumination.\n• \n 6600mAh Rechargeable Battery: Provides reliable runtime with fast 2.5–3 hour charging and power bank function.\n• \n Durable & Water-Resistant: ABS and TPR body with IP66 rating ensures performance in harsh conditions.\n• \n Adjustable & Stable Design: Top stand and tripod mount enable flexible and hands-free positioning.\n• \n Ergonomic Grip Design: Balanced handle reduces fatigue for extended handheld use.",
+      "bullets": [
+        "6000 Lumens Output: High-intensity beam reaches up to 900 meters for long-distance illumination.",
+        "6600mAh Rechargeable Battery: Provides reliable runtime with fast 2.5–3 hour charging and power bank function.",
+        "Durable & Water-Resistant: ABS and TPR body with IP66 rating ensures performance in harsh conditions.",
+        "Adjustable & Stable Design: Top stand and tripod mount enable flexible and hands-free positioning.",
+        "Ergonomic Grip Design: Balanced handle reduces fatigue for extended handheld use."
+      ],
+      "published_at": "2021-10-28T18:11:41+08:00",
+      "source_ref": "shopify:products.json#7350704570610",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 6000lm waterproof spotlight reaching 900m, with a power bank and tripod mount.",
+      "key_specs": {
+        "lumens": 6000,
+        "battery_mah": 6600,
+        "recharge": "USB-C",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": "IP66"
+      },
+      "selling_points": [
+        {
+          "point": "6000lm, 900m beam",
+          "benefit": "light up far across a field, road, or water at night",
+          "scenarios": [
+            "hunting",
+            "home_security",
+            "emergency",
+            "night_hiking"
+          ]
+        },
+        {
+          "point": "6600mAh + power bank",
+          "benefit": "runs long and charges a phone as backup",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        },
+        {
+          "point": "Tripod mount + top stand, IP66",
+          "benefit": "set it up hands-free in harsh weather",
+          "scenarios": [
+            "home_security",
+            "emergency"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "hunting",
+        "home_security",
+        "emergency",
+        "power_outage",
+        "night_hiking",
+        "camping"
+      ],
+      "audience": [
+        "prepper",
+        "hunter",
+        "homeowner",
+        "outdoor",
+        "first_responder"
+      ],
+      "competitor_analogs": [
+        "Olight",
+        "Fenix",
+        "Imalent"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0083-1500-lumen-work-light",
+      "sku": "0083",
+      "name": "EASYMAXX W4 - 1500 Lumen Rechargeable 360° Adjustable Magnetic Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 39.99,
+      "url": "https://hokolite.com/products/hokolite-0083-1500-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0083-1500-lumen-magnetic-work-light-2740139.jpg?v=1778586863",
+      "in_stock": true,
+      "tags": [
+        "LED WORK LIGHT",
+        "New"
+      ],
+      "collections": [
+        "work-lights",
+        "best-sellers"
+      ],
+      "body_text": "Two Lights to Keep Every Work Area in View \n The HOKOLITE EASYMAXX W4 two-light set is designed for car repairs, garage projects, home maintenance, camping, and power outages. Place the lights separately to keep multiple areas illuminated without constantly moving one light.\n Light Two Areas at Once: Position one light near the engine bay and the other by your tools, or split them between separate work and campsite areas. \n Go Wide or Focus In: The 1,500-lumen COB light offers Flood, Focus, and Dual modes, making it easy to move from broad area lighting to closer inspections. \n Aim It Without Holding It: The magnetic base attaches to vehicles, toolboxes, and other metal surfaces, while the 360° rotating bracket directs light toward the task. \n Hang It Beyond Metal Surfaces: A hidden hook provides hands-free lighting inside tents, garages, storage spaces, and other places where magnetic mounting is not available. \n Ready for Work Beyond the Garage: Type-C charging takes approximately 2.5 hours and provides 3.5–7 hours of runtime. IPX4 water resistance and 3-meter drop resistance help it handle outdoor jobs and roadside situations. \n Two portable lights. More freedom to illuminate the job your way.",
+      "bullets": [],
+      "published_at": "2021-10-27T14:16:06+08:00",
+      "source_ref": "shopify:products.json#7069794009253",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6662-2100-lumen-work-light",
+      "sku": "6662",
+      "name": "HOKOLITE 6662 - 2100 Lumen 3 Modes 270° Adjustable Magnetic Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-6662-2100-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-6662-3-modes-magnetic-work-light-1110697.jpg?v=1778586868",
+      "in_stock": true,
+      "tags": [
+        "LED WORK LIGHT"
+      ],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 2100 Lumens Output: High-power COB delivers bright, wide illumination for job sites and repair tasks.\n• \n 2600mAh Rechargeable Battery: Provides up to 7.5 hours of runtime with USB-C charging and supports mobile device charging.\n• \n Durable & Water-Resistant: ABS body with IPX4 protection ensures reliable performance in outdoor conditions.\n• \n Magnetic & Clamp Design: Strong magnet and clip enable secure hands-free placement on various surfaces.\n• \n Adjustable Multi-Angle Lighting: 270° rotating head and adjustable base allow precise lighting direction.",
+      "bullets": [
+        "2100 Lumens Output: High-power COB delivers bright, wide illumination for job sites and repair tasks.",
+        "2600mAh Rechargeable Battery: Provides up to 7.5 hours of runtime with USB-C charging and supports mobile device charging.",
+        "Durable & Water-Resistant: ABS body with IPX4 protection ensures reliable performance in outdoor conditions.",
+        "Magnetic & Clamp Design: Strong magnet and clip enable secure hands-free placement on various surfaces.",
+        "Adjustable Multi-Angle Lighting: 270° rotating head and adjustable base allow precise lighting direction."
+      ],
+      "published_at": "2021-07-29T15:57:49+08:00",
+      "source_ref": "shopify:products.json#6943803801765",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 2100lm magnetic work light with a 270° rotating head and clamp for job sites and repairs.",
+      "key_specs": {
+        "lumens": 2100,
+        "battery_mah": 2600,
+        "recharge": "USB-C",
+        "runtime_h": 7.5,
+        "weight_g": null,
+        "waterproof": "IPX4"
+      },
+      "selling_points": [
+        {
+          "point": "2100lm wide COB",
+          "benefit": "bright area light for job sites and repair tasks",
+          "scenarios": [
+            "garage",
+            "workshop",
+            "auto_repair"
+          ]
+        },
+        {
+          "point": "Magnet + clamp, 270° rotating head",
+          "benefit": "sticks or clamps anywhere and aims precisely, hands free",
+          "scenarios": [
+            "inspection",
+            "garage"
+          ]
+        },
+        {
+          "point": "IPX4 water-resistant, 7.5h runtime",
+          "benefit": "holds up outdoors and lasts a shift",
+          "scenarios": [
+            "camping",
+            "power_outage"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "garage",
+        "workshop",
+        "auto_repair",
+        "inspection",
+        "camping",
+        "power_outage"
+      ],
+      "audience": [
+        "diy",
+        "mechanic",
+        "tradesman",
+        "camper"
+      ],
+      "competitor_analogs": [
+        "NEBO"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6663-3000-lumen-camping-lantern",
+      "sku": "6663-OG",
+      "name": "HOKOLITE 6663 - 3000 Lumen Rechargeable 5 Modes Hands-free Camping Lantern",
+      "brand": "Hokolite",
+      "category": "camping_lantern",
+      "product_type_raw": "CAMPING LIGHT",
+      "price_usd": 49.99,
+      "url": "https://hokolite.com/products/hokolite-6663-3000-lumen-camping-lantern",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-6663-3000-lumen-5-modes-camping-lantern-2535653.jpg?v=1778586935",
+      "in_stock": true,
+      "tags": [],
+      "collections": [
+        "work-lights",
+        "camping-lanterns",
+        "best-sellers"
+      ],
+      "body_text": "• \n 3000 Lumens Output: High-power COB delivers bright 360° illumination for camping and emergency use.\n• \n 4400mAh Rechargeable Battery: Provides 4–10 hours of runtime with USB-C charging and power bank function.\n• \n Durable & Water-Resistant: Impact-resistant body with IPX4 protection ensures reliable performance outdoors.\n• \n 5 Lighting Modes: High, medium, low, red, and strobe modes support different situations and emergencies.\n• \n Portable & Hanging Design: Compact body with dual hooks allows easy carry and hands-free use.",
+      "bullets": [
+        "3000 Lumens Output: High-power COB delivers bright 360° illumination for camping and emergency use.",
+        "4400mAh Rechargeable Battery: Provides 4–10 hours of runtime with USB-C charging and power bank function.",
+        "Durable & Water-Resistant: Impact-resistant body with IPX4 protection ensures reliable performance outdoors.",
+        "5 Lighting Modes: High, medium, low, red, and strobe modes support different situations and emergencies.",
+        "Portable & Hanging Design: Compact body with dual hooks allows easy carry and hands-free use."
+      ],
+      "published_at": "2021-07-24T16:02:43+08:00",
+      "source_ref": "shopify:products.json#6933800976549",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 3000lm rechargeable 360° camping lantern with power-bank function and dual hooks.",
+      "key_specs": {
+        "lumens": 3000,
+        "battery_mah": 4400,
+        "recharge": "USB-C",
+        "runtime_h": 10,
+        "weight_g": null,
+        "waterproof": "IPX4"
+      },
+      "selling_points": [
+        {
+          "point": "3000lm 360° COB",
+          "benefit": "bright area light for camping and emergencies",
+          "scenarios": [
+            "camping",
+            "power_outage",
+            "emergency"
+          ]
+        },
+        {
+          "point": "4400mAh + power bank",
+          "benefit": "runs 4-10h and charges your phone as backup",
+          "scenarios": [
+            "power_outage",
+            "emergency"
+          ]
+        },
+        {
+          "point": "Dual hooks, IPX4",
+          "benefit": "hang it anywhere, rain or shine",
+          "scenarios": [
+            "camping",
+            "van_life"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "camping",
+        "power_outage",
+        "emergency",
+        "van_life"
+      ],
+      "audience": [
+        "camper",
+        "prepper",
+        "homeowner"
+      ],
+      "competitor_analogs": [
+        "NEBO"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1934-1200-lumen-headlamp",
+      "sku": "1934-G",
+      "name": "HOKOLITE 1934 - 1200 Lumen 5 Modes Rechargeable Motion Sensor Headlamp",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-1934-1200-lumen-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1934-5-modes-motion-sensor-headlamp-3707092.jpg?v=1778586935",
+      "in_stock": true,
+      "tags": [
+        "LED HEAD LAMP"
+      ],
+      "collections": [
+        "headlamps"
+      ],
+      "body_text": "• \n 1200 Lumens Output: Dual COB and LED deliver 210° wide beam and focused spotlight for versatile illumination.\n• \n 1200mAh Rechargeable Battery: Provides 2.5–8 hours of runtime with fast USB-C charging.\n• \n Durable & Water-Resistant: ABS and silicone body with IPX4 rating ensures reliable outdoor performance.\n• \n Motion Sensor Control: Hands-free operation allows easy activation with simple gestures.\n• \n 5 Lighting Modes: Multiple brightness levels and strobe mode support different tasks and emergencies.",
+      "bullets": [
+        "1200 Lumens Output: Dual COB and LED deliver 210° wide beam and focused spotlight for versatile illumination.",
+        "1200mAh Rechargeable Battery: Provides 2.5–8 hours of runtime with fast USB-C charging.",
+        "Durable & Water-Resistant: ABS and silicone body with IPX4 rating ensures reliable outdoor performance.",
+        "Motion Sensor Control: Hands-free operation allows easy activation with simple gestures.",
+        "5 Lighting Modes: Multiple brightness levels and strobe mode support different tasks and emergencies."
+      ],
+      "published_at": "2021-06-08T17:34:15+08:00",
+      "source_ref": "shopify:products.json#6807270588581",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 1200lm motion-sensor headlamp with a 210° beam and 5 modes for work and outdoors.",
+      "key_specs": {
+        "lumens": 1200,
+        "battery_mah": 1200,
+        "recharge": "USB-C",
+        "runtime_h": 8,
+        "weight_g": null,
+        "waterproof": "IPX4"
+      },
+      "selling_points": [
+        {
+          "point": "210° wide beam + spotlight",
+          "benefit": "cover the trail and close-up work in one light",
+          "scenarios": [
+            "night_hiking",
+            "hiking",
+            "camping",
+            "garage"
+          ]
+        },
+        {
+          "point": "Motion sensor control",
+          "benefit": "hands-free switching for repairs and outdoor tasks",
+          "scenarios": [
+            "auto_repair",
+            "workshop"
+          ]
+        },
+        {
+          "point": "IPX4, 2.5-8h, USB-C",
+          "benefit": "reliable outdoors with fast charging",
+          "scenarios": [
+            "camping",
+            "power_outage"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "night_hiking",
+        "hiking",
+        "camping",
+        "garage",
+        "auto_repair",
+        "dog_walking"
+      ],
+      "audience": [
+        "hiker",
+        "camper",
+        "diy",
+        "outdoor"
+      ],
+      "competitor_analogs": [
+        "Fenix",
+        "Nitecore"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-6680-1000-lumen-headlamp",
+      "sku": "6680",
+      "name": "HOKOLITE 6680 - 1000 Lumen Waterproof Rechargeable Headlamp for Camping & Work",
+      "brand": "Hokolite",
+      "category": "headlamp",
+      "product_type_raw": "",
+      "price_usd": 32.99,
+      "url": "https://hokolite.com/products/hokolite-6680-1000-lumen-headlamp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-6680-1000-lumen-rechargeable-headlamp-2696374.jpg?v=1778586935",
+      "in_stock": true,
+      "tags": [
+        "LED HEAD LAMP"
+      ],
+      "collections": [
+        "headlamps"
+      ],
+      "body_text": "• \n 1000 Lumens Output: Wide 230° beam delivers bright, full-area illumination for outdoor and night use.\n• \n 1200mAh Rechargeable Battery: Provides 4–10 hours of runtime with fast USB-C charging.\n• \n Durable & Water-Resistant: ABS and silicone body ensures reliable performance in all weather conditions.\n• \n Front & Rear Lighting Modes: COB front light and red tail light provide flexible lighting and added safety.\n• \n Lightweight & Comfortable Design: Breathable adjustable headband ensures secure and all-day comfortable wear.",
+      "bullets": [
+        "1000 Lumens Output: Wide 230° beam delivers bright, full-area illumination for outdoor and night use.",
+        "1200mAh Rechargeable Battery: Provides 4–10 hours of runtime with fast USB-C charging.",
+        "Durable & Water-Resistant: ABS and silicone body ensures reliable performance in all weather conditions.",
+        "Front & Rear Lighting Modes: COB front light and red tail light provide flexible lighting and added safety.",
+        "Lightweight & Comfortable Design: Breathable adjustable headband ensures secure and all-day comfortable wear."
+      ],
+      "published_at": "2021-06-02T17:16:11+08:00",
+      "source_ref": "shopify:products.json#6799714844837",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 1000lm waterproof headlamp with a 230° beam and front/rear lighting for camping and work.",
+      "key_specs": {
+        "lumens": 1000,
+        "battery_mah": 1200,
+        "recharge": "USB-C",
+        "runtime_h": 10,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "230° wide beam, 1000lm",
+          "benefit": "full-area light for camping and night tasks",
+          "scenarios": [
+            "camping",
+            "night_hiking",
+            "hiking"
+          ]
+        },
+        {
+          "point": "Red rear tail light",
+          "benefit": "extra visibility and safety when walking or riding at night",
+          "scenarios": [
+            "dog_walking",
+            "bike_commute"
+          ]
+        },
+        {
+          "point": "4-10h runtime, USB-C",
+          "benefit": "lasts a night out with fast charging",
+          "scenarios": [
+            "camping",
+            "power_outage"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "camping",
+        "night_hiking",
+        "hiking",
+        "dog_walking",
+        "power_outage"
+      ],
+      "audience": [
+        "camper",
+        "hiker",
+        "outdoor",
+        "homeowner"
+      ],
+      "competitor_analogs": [
+        "Fenix",
+        "Nitecore"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-favorlite-fw1-500-lumen-work-light",
+      "sku": "1936",
+      "name": "FAVORLITE FW1 - 500 Lumen Hands-free Magnetic Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-favorlite-fw1-500-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-favorlite-fw1-500-lumen-magnetic-work-light-2042281.jpg?v=1778586934",
+      "in_stock": true,
+      "tags": [
+        "LED WORK LIGHT"
+      ],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 500 Lumens Output: Focused LED delivers clear illumination for inspection and detailed work tasks.\n• \n AAA Battery Powered: Runs on 3 AAA batteries for convenient and portable lighting without charging.\n• \n Durable & Water-Resistant: Aluminum body with protective coating ensures reliable performance in tough conditions.\n• \n Flexible Gooseneck Design: 360° adjustable neck allows precise lighting in narrow and hard-to-reach areas.\n• \n Magnetic & Zoomable Design: Strong magnetic base and adjustable beam provide hands-free and flexible lighting.",
+      "bullets": [
+        "500 Lumens Output: Focused LED delivers clear illumination for inspection and detailed work tasks.",
+        "AAA Battery Powered: Runs on 3 AAA batteries for convenient and portable lighting without charging.",
+        "Durable & Water-Resistant: Aluminum body with protective coating ensures reliable performance in tough conditions.",
+        "Flexible Gooseneck Design: 360° adjustable neck allows precise lighting in narrow and hard-to-reach areas.",
+        "Magnetic & Zoomable Design: Strong magnetic base and adjustable beam provide hands-free and flexible lighting."
+      ],
+      "published_at": "2021-05-10T15:26:10+08:00",
+      "source_ref": "shopify:products.json#6739699204261",
+      "observed_at": "2026-10-12",
+      "one_liner": "A compact 500lm AAA-powered magnetic work light with a 360° gooseneck.",
+      "key_specs": {
+        "lumens": 500,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [
+        {
+          "point": "360° gooseneck, magnetic base",
+          "benefit": "bends into narrow spots and sticks hands-free",
+          "scenarios": [
+            "inspection",
+            "workshop",
+            "garage"
+          ]
+        },
+        {
+          "point": "Runs on 3 AAA batteries",
+          "benefit": "no charging needed, grab and go",
+          "scenarios": [
+            "emergency",
+            "power_outage"
+          ]
+        },
+        {
+          "point": "Zoomable beam",
+          "benefit": "widen for area light or focus for detail",
+          "scenarios": [
+            "inspection"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "inspection",
+        "workshop",
+        "garage",
+        "emergency",
+        "power_outage"
+      ],
+      "audience": [
+        "diy",
+        "mechanic",
+        "edc",
+        "homeowner"
+      ],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-5185-1400-lumen-bike-light",
+      "sku": "5185-B-2",
+      "name": "HOKOLITE 5185 - 1400 Lumen Dual-Zone Safety Horn Bike Light",
+      "brand": "Hokolite",
+      "category": "bike_light",
+      "product_type_raw": "",
+      "price_usd": 39.99,
+      "url": "https://hokolite.com/products/hokolite-5185-1400-lumen-bike-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-5185-1400-lumen-horn-with-tail-bike-light-1526596.jpg?v=1778586936",
+      "in_stock": true,
+      "tags": [
+        "BIKE LIGHT SET",
+        "rechargeable bike lights"
+      ],
+      "collections": [],
+      "body_text": "• \n 1400 Lumens Output: High-performance beam reaches up to 492 ft for clear night riding visibility.\n• \n 1200mAh Rechargeable Battery: Provides reliable runtime with USB charging.\n• \n Durable & Water-Resistant: ABS body with IPX4 rating ensures performance in all weather conditions.\n• \n 120dB Horn Design: Built-in loud horn enhances safety by alerting pedestrians and vehicles.\n• \n Front & Rear Light Set: Includes headlight and taillight for improved visibility and riding safety.",
+      "bullets": [
+        "1400 Lumens Output: High-performance beam reaches up to 492 ft for clear night riding visibility.",
+        "1200mAh Rechargeable Battery: Provides reliable runtime with USB charging.",
+        "Durable & Water-Resistant: ABS body with IPX4 rating ensures performance in all weather conditions.",
+        "120dB Horn Design: Built-in loud horn enhances safety by alerting pedestrians and vehicles.",
+        "Front & Rear Light Set: Includes headlight and taillight for improved visibility and riding safety."
+      ],
+      "published_at": "2021-04-06T16:45:34+08:00",
+      "source_ref": "shopify:products.json#6630671089829",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 1400lm bike light set with a 120dB horn for extra safety on the road.",
+      "key_specs": {
+        "lumens": 1400,
+        "battery_mah": 1200,
+        "recharge": "USB",
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": "IPX4"
+      },
+      "selling_points": [
+        {
+          "point": "120dB built-in horn",
+          "benefit": "alert pedestrians and cars without a separate bell",
+          "scenarios": [
+            "bike_commute"
+          ]
+        },
+        {
+          "point": "1400lm beam, about 492 ft",
+          "benefit": "clear night visibility on the road",
+          "scenarios": [
+            "bike_commute"
+          ]
+        },
+        {
+          "point": "Front + rear set, IPX4",
+          "benefit": "full visibility and all-weather reliability",
+          "scenarios": [
+            "bike_commute"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "bike_commute"
+      ],
+      "audience": [
+        "cyclist"
+      ],
+      "competitor_analogs": [
+        "Cygolite",
+        "NiteRider"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-1920-2500-lumen-work-light",
+      "sku": "1920",
+      "name": "YZONI W6 - 2500 Lumen Foldable 360° Adjustable Magnetic Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "",
+      "price_usd": 32.99,
+      "url": "https://hokolite.com/products/hokolite-1920-2500-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-1920-2500-lumen-foldable-magnetic-work-light-2654041.jpg?v=1778586935",
+      "in_stock": true,
+      "tags": [
+        "LED WORK LIGHT"
+      ],
+      "collections": [
+        "work-lights"
+      ],
+      "body_text": "• \n 2500 Lumens Output: Dual COB panels deliver bright, wide illumination for work and outdoor use.\n• \n 4400mAh Rechargeable Battery: Provides reliable runtime with USB charging and power bank function.\n• \n Durable & Water-Resistant: ABS body ensures stable performance in tough and outdoor conditions.\n• \n Foldable & Adjustable Design: 360° rotating and folding panels allow flexible lighting at any angle.\n• \n Magnetic & Portable Design: Built-in magnet and handle enable hands-free use and easy carrying.",
+      "bullets": [
+        "2500 Lumens Output: Dual COB panels deliver bright, wide illumination for work and outdoor use.",
+        "4400mAh Rechargeable Battery: Provides reliable runtime with USB charging and power bank function.",
+        "Durable & Water-Resistant: ABS body ensures stable performance in tough and outdoor conditions.",
+        "Foldable & Adjustable Design: 360° rotating and folding panels allow flexible lighting at any angle.",
+        "Magnetic & Portable Design: Built-in magnet and handle enable hands-free use and easy carrying."
+      ],
+      "published_at": "2021-03-29T11:49:01+08:00",
+      "source_ref": "shopify:products.json#6608686809253",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-5503-1500-lumen-camping-lantern",
+      "sku": "5503",
+      "name": "INNOFOX C8Pro - 1500 Lumen LED Waterproof  Camping Lantern for Power Outage & Emergency",
+      "brand": "Hokolite",
+      "category": "camping_lantern",
+      "product_type_raw": "CAMPING LIGHT",
+      "price_usd": 44.99,
+      "url": "https://hokolite.com/products/hokolite-5503-1500-lumen-camping-lantern",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-5503-1500-lumens-4-modes-camping-lantern-6944959.jpg?v=1778586941",
+      "in_stock": true,
+      "tags": [
+        "CAMPING LIGHT"
+      ],
+      "collections": [
+        "camping-lanterns",
+        "best-sellers"
+      ],
+      "body_text": "• \n 1500 Lumens High Output : 360° powerful LED light, ideal for camping, storms, and power outages.\n• \n 75 Hours Battery Powered : 1.5–75 hours of long-lasting, replaceable non-stop power.\n• \n IPX4 Water-Resistant : Rugged build withstands rain, snow and harsh outdoor conditions.\n• \n 4 Adjustable Lighting Modes : Switch between High/Med/Low/Nite modes for various scenarios.\n• \n Portable & Hangable Design : Built-in carry handle and upside-down hanging hook for easy, hands-free use.",
+      "bullets": [
+        "1500 Lumens High Output : 360° powerful LED light, ideal for camping, storms, and power outages.",
+        "75 Hours Battery Powered : 1.5–75 hours of long-lasting, replaceable non-stop power.",
+        "IPX4 Water-Resistant : Rugged build withstands rain, snow and harsh outdoor conditions.",
+        "4 Adjustable Lighting Modes : Switch between High/Med/Low/Nite modes for various scenarios.",
+        "Portable & Hangable Design : Built-in carry handle and upside-down hanging hook for easy, hands-free use."
+      ],
+      "published_at": "2021-03-11T16:55:30+08:00",
+      "source_ref": "shopify:products.json#5396795064485",
+      "observed_at": "2026-10-12",
+      "one_liner": "A 1500lm 360° camping lantern with up to 75h runtime and a hangable design for outages.",
+      "key_specs": {
+        "lumens": 1500,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": 75,
+        "weight_g": null,
+        "waterproof": "IPX4"
+      },
+      "selling_points": [
+        {
+          "point": "360° 1500lm output",
+          "benefit": "light a whole campsite or room from one lantern",
+          "scenarios": [
+            "camping",
+            "power_outage",
+            "emergency"
+          ]
+        },
+        {
+          "point": "Up to 75h on replaceable batteries",
+          "benefit": "runs through a long trip or a multi-day outage",
+          "scenarios": [
+            "power_outage",
+            "emergency",
+            "van_life"
+          ]
+        },
+        {
+          "point": "Hangable and IPX4",
+          "benefit": "hang it in a tent or van and leave it in the rain",
+          "scenarios": [
+            "camping",
+            "van_life"
+          ]
+        }
+      ],
+      "use_scenarios": [
+        "camping",
+        "power_outage",
+        "emergency",
+        "van_life",
+        "backpacking"
+      ],
+      "audience": [
+        "camper",
+        "prepper",
+        "homeowner",
+        "outdoor"
+      ],
+      "competitor_analogs": [
+        "NEBO",
+        "Coleman"
+      ],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-5833-200-lumen-motion-sensor-light",
+      "sku": "5833-6",
+      "name": "HOKOLITE 5833 - 200 Lumen Magnetic Compact Motion Sensor Light",
+      "brand": "MangoLite",
+      "category": "other",
+      "product_type_raw": "MOTION SENSOR LIGHT",
+      "price_usd": 34.99,
+      "url": "https://hokolite.com/products/hokolite-5833-200-lumen-motion-sensor-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-5833-200-lumen-magnetic-motion-sensor-light-8817082.png?v=1778586936",
+      "in_stock": true,
+      "tags": [
+        "MOTION SENSOR LIGHT"
+      ],
+      "collections": [],
+      "body_text": "• \n 200 Lumens Output: 10 LEDs deliver bright, glare-free lighting for closets, cabinets, and indoor spaces.\n• \n AAA Battery Powered: Runs on 4 AAA batteries with up to 30–60 days of use in sensor mode.\n• \n Durable & Compact Design: Aluminum body ensures stable performance for daily indoor use.\n• \n Motion Sensor Control: 10–18 ft detection range with auto shut-off after 15–20 seconds.\n• \n Magnetic & Easy Installation: Adhesive metal plates allow quick mounting and easy removal.",
+      "bullets": [
+        "200 Lumens Output: 10 LEDs deliver bright, glare-free lighting for closets, cabinets, and indoor spaces.",
+        "AAA Battery Powered: Runs on 4 AAA batteries with up to 30–60 days of use in sensor mode.",
+        "Durable & Compact Design: Aluminum body ensures stable performance for daily indoor use.",
+        "Motion Sensor Control: 10–18 ft detection range with auto shut-off after 15–20 seconds.",
+        "Magnetic & Easy Installation: Adhesive metal plates allow quick mounting and easy removal."
+      ],
+      "published_at": "2020-07-09T10:51:33+08:00",
+      "source_ref": "shopify:products.json#5396806992037",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0063-1500-lumen-work-light",
+      "sku": "0063-2",
+      "name": "INNOFOX X6 2Pack- 1500 Lumen Rechargeable 3 Modes Magnetic Work Light",
+      "brand": "Hokolite",
+      "category": "work_light",
+      "product_type_raw": "LED WORK LIGHT",
+      "price_usd": 39.99,
+      "url": "https://hokolite.com/products/hokolite-0063-1500-lumen-work-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0063-1500-lumen-magnetic-work-light-9758796.jpg?v=1778586936",
+      "in_stock": true,
+      "tags": [
+        "LED WORK LIGHT"
+      ],
+      "collections": [
+        "work-lights",
+        "best-sellers"
+      ],
+      "body_text": "Reliable Light That Goes Wherever the Work Is \n The HOKOLITE INNOFOX X6 combines bright illumination, flexible mounting, and a portable build for garage repairs, vehicle inspections, outdoor projects, roadside trouble, and power outages.\n Light Up the Task Fast: The 1,500-lumen COB light provides clear coverage around garages, workbenches, vehicles, and temporary work areas. \n Match the Light to the Moment: Choose High for wider work areas, Low for close-up inspections, or Strobe for visible roadside and emergency signaling. \n Place It Where You Need It: The magnetic base attaches to car hoods, toolboxes, and metal workbenches, while the foldable hook supports hands-free lighting inside vehicles, tents, and overhead spaces. \n Ready for Real-World Use: Four-sided silicone protection helps handle everyday bumps and drops, while the splash-resistant construction suits garages, vehicles, job sites, and outdoor conditions. \n Stay Prepared Beyond the Repair: Enjoy up to 8 hours of rechargeable runtime, plus USB output for temporary phone charging during roadside breakdowns, storm outages, and off-grid situations. \n Keep it in your toolbox, vehicle, or emergency kit—reliable light is always close at hand.",
+      "bullets": [],
+      "published_at": "2020-07-09T10:51:05+08:00",
+      "source_ref": "shopify:products.json#5396805648549",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0065-3500k-warm-white-motion-sensor-light",
+      "sku": "0065",
+      "name": "HOKOLITE 0065 - Warm White Easy Installation Battery Power Motion Sensor Light",
+      "brand": "HOKOILN",
+      "category": "other",
+      "product_type_raw": "MOTION SENSOR LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-0065-3500k-warm-white-motion-sensor-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0065-warm-white-easy-installation-motion-sensor-light-2478020.png?v=1778586937",
+      "in_stock": true,
+      "tags": [
+        "MOTION SENSOR LIGHT"
+      ],
+      "collections": [],
+      "body_text": "• \n Warm White Lighting: 3000–3500K soft light delivers comfortable illumination for stairs and indoor spaces.\n• \n AAA Battery Powered: Runs on 3 AAA batteries with long-lasting energy-efficient performance.\n• \n Durable & Compact Design: ABS body ensures stable performance for daily indoor use.\n• \n Motion Sensor Control: 10 ft detection range with 120° angle and auto shut-off after 20–25 seconds.\n• \n Easy Installation Design: Adhesive pads and screws allow quick mounting and flexible placement.",
+      "bullets": [
+        "Warm White Lighting: 3000–3500K soft light delivers comfortable illumination for stairs and indoor spaces.",
+        "AAA Battery Powered: Runs on 3 AAA batteries with long-lasting energy-efficient performance.",
+        "Durable & Compact Design: ABS body ensures stable performance for daily indoor use.",
+        "Motion Sensor Control: 10 ft detection range with 120° angle and auto shut-off after 20–25 seconds.",
+        "Easy Installation Design: Adhesive pads and screws allow quick mounting and flexible placement."
+      ],
+      "published_at": "2020-07-09T10:50:52+08:00",
+      "source_ref": "shopify:products.json#5396804763813",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-5997-200-lumens-running-light",
+      "sku": "5997",
+      "name": "HOKOILN R5 2Pack-200 Lumen USB Rechargeable Clip-On Running Lights",
+      "brand": "HOKOLIN",
+      "category": "other",
+      "product_type_raw": "RUNNING LIGHT",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-5997-200-lumens-running-light",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/5997-2.jpg?v=1784020262",
+      "in_stock": true,
+      "tags": [
+        "RUNNING LIGHT"
+      ],
+      "collections": [
+        "best-sellers"
+      ],
+      "body_text": "Light the Route and Keep Moving After Dark \n The HOKOLITE HOKOILN R5 is a lightweight clip-on running light for night runs, dog walks, cycling, hiking, and camping. Attach it to your clothing or gear and keep useful light close without carrying a flashlight.\n See the Path and Stay Noticeable: A 150-lumen LED spotlight illuminates the route ahead, while the COB floodlight opens up nearby visibility for early-morning runs, evening walks, and low-light adventures. \n Clip On Without Feeling Weighed Down: Each light weighs only 1.2 oz. The non-slip clip secures firmly to a running belt, jacket, pocket, or hat brim and stays steady while you move. \n Match the Light to Your Pace: Choose 100%, 50%, or 30% spotlight output for changing routes and brightness needs, or switch to the wide COB floodlight for better awareness around your feet. \n Recharge Without Carrying a Cable: The built-in USB-A plug connects directly to a laptop, power bank, or car charger. Charging takes approximately 1.5–2 hours, with red and green indicators showing the charging status. \n Bring Two for More Flexibility: The two-pack is easy to share with a partner or keep in separate outdoor bags. Its water-resistant ABS construction handles splashes, rain, snow, and changing outdoor conditions. \n Clip it on, find your pace, and keep the route ahead in view.",
+      "bullets": [],
+      "published_at": "2020-07-09T10:49:40+08:00",
+      "source_ref": "shopify:products.json#5396800831653",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    },
+    {
+      "id": "hokolite-0067-500-lumen-edc-flashlight",
+      "sku": "0067",
+      "name": "LEXALL H8 - 500 Lumen Rechargeable Clip Waterproof EDC Flashlight",
+      "brand": "Hokolite",
+      "category": "edc_flashlight",
+      "product_type_raw": "keychain flashlight",
+      "price_usd": 29.99,
+      "url": "https://hokolite.com/products/hokolite-0067-500-lumen-edc-flashlight",
+      "image_url": "https://cdn.shopify.com/s/files/1/0432/3006/8901/files/hokolite-0067-500-lumen-rechargeable-edc-flashlight-5164498.jpg?v=1778586941",
+      "in_stock": true,
+      "tags": [
+        "Keychain Flashlight"
+      ],
+      "collections": [
+        "edc-flashlights"
+      ],
+      "body_text": "• \n 500 Lumens Output: High-performance LED delivers bright wide-beam illumination up to 262 ft for daily use.\n• \n 250mAh Rechargeable Battery: Provides up to 70 minutes of runtime with fast USB-C charging.\n• \n Durable & Water-Resistant: Aluminum alloy body ensures reliable performance with impact resistance.\n• \n Ultra-Compact EDC Design: Lightweight keychain size allows easy carry in pocket, bag, or on keys.\n• \n Multi-Use Clip Design: Carabiner and cap clip enable flexible hands-free and portable use.",
+      "bullets": [
+        "500 Lumens Output: High-performance LED delivers bright wide-beam illumination up to 262 ft for daily use.",
+        "250mAh Rechargeable Battery: Provides up to 70 minutes of runtime with fast USB-C charging.",
+        "Durable & Water-Resistant: Aluminum alloy body ensures reliable performance with impact resistance.",
+        "Ultra-Compact EDC Design: Lightweight keychain size allows easy carry in pocket, bag, or on keys.",
+        "Multi-Use Clip Design: Carabiner and cap clip enable flexible hands-free and portable use."
+      ],
+      "published_at": "2020-07-09T10:48:28+08:00",
+      "source_ref": "shopify:products.json#5396795818149",
+      "observed_at": "2026-10-12",
+      "one_liner": "",
+      "key_specs": {
+        "lumens": null,
+        "battery_mah": null,
+        "recharge": null,
+        "runtime_h": null,
+        "weight_g": null,
+        "waterproof": null
+      },
+      "selling_points": [],
+      "use_scenarios": [],
+      "audience": [],
+      "competitor_analogs": [],
+      "claims_to_avoid": []
+    }
+  ]
+}

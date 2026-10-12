@@ -1,0 +1,17 @@
+# Credentials — never commit
+.secrets/
+
+# Generated outreach records & send logs (contain real creator / contact data)
+output/
+send-log.jsonl
+
+# Workspace memory
+.workbuddy-ai/memory/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,356 @@
+{
+  "_note": "agent 撰写的语义字段（keyed by product id）。build_catalog.py --semantics 合并，优先级最高。卖点均来自官网原文 bullets/body，未编造。",
+  "version": "2026-10-12",
+  "products": [
+    {
+      "id": "hokolite-clakap-w7-work-light",
+      "one_liner": "A folding magnetic work light with a 1000lm XPL spotlight and 800lm COB panel for garage and car repair.",
+      "key_specs": {"lumens": 1000, "battery_mah": 4000, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Magnetic hands-free base", "benefit": "sticks to a toolbox, car hood, or bench so both hands stay free", "scenarios": ["auto_repair", "garage", "workshop"]},
+        {"point": "Dual beam: XPL spotlight + COB panel", "benefit": "flip between a long-throw beam and a wide area light without a second tool", "scenarios": ["inspection", "camping", "power_outage"]},
+        {"point": "180° rotating, 90° folding body", "benefit": "aim the light at the job, then fold it flat to store", "scenarios": ["inspection", "garage"]},
+        {"point": "4000mAh USB-C with power display", "benefit": "lasts a full work session and doubles as backup light", "scenarios": ["power_outage", "emergency"]}
+      ],
+      "use_scenarios": ["garage", "auto_repair", "workshop", "inspection", "camping", "power_outage", "emergency"],
+      "audience": ["diy", "mechanic", "camper", "prepper", "edc", "tradesman"],
+      "competitor_analogs": ["Olight", "NEBO"]
+    },
+    {
+      "id": "hokolite-1327-2600-lumen-work-light",
+      "one_liner": "An extendable underhood work light that stretches across the engine bay, then detaches for close-up work.",
+      "key_specs": {"lumens": 2600, "battery_mah": null, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Extendable underhood bar (31.5 to 110.2 in)", "benefit": "one light fits sedans, SUVs and trucks by spanning the whole engine bay", "scenarios": ["auto_repair", "garage", "workshop"]},
+        {"point": "14.9-inch COB panel, 2600lm", "benefit": "lights wiring, belts and fluids with fewer shadows across the bay", "scenarios": ["auto_repair", "inspection"]},
+        {"point": "Detachable for focused lighting", "benefit": "pull a section off the bar for close-up work anywhere", "scenarios": ["auto_repair", "inspection"]}
+      ],
+      "use_scenarios": ["auto_repair", "garage", "workshop", "inspection"],
+      "audience": ["mechanic", "diy", "tradesman"],
+      "competitor_analogs": ["NEBO", "Olight"]
+    },
+    {
+      "id": "hokolite-clakap-u1-3000-lumen-work-light",
+      "one_liner": "A 2-in-1 underhood light that connects into a full engine-bay bar or splits into two independent work lights.",
+      "key_specs": {"lumens": 3000, "battery_mah": null, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "2-in-1: bar or two separate lights", "benefit": "run it as a 25.6-inch bay bar, or split it for two work areas", "scenarios": ["auto_repair", "garage", "workshop"]},
+        {"point": "3000lm wide-beam COB panels", "benefit": "cuts shadows across the whole engine bay", "scenarios": ["auto_repair", "inspection"]}
+      ],
+      "use_scenarios": ["auto_repair", "garage", "workshop", "inspection", "power_outage"],
+      "audience": ["mechanic", "diy", "tradesman"],
+      "competitor_analogs": ["NEBO"]
+    },
+    {
+      "id": "hokolite-yzoni-w5-work-light",
+      "one_liner": "A folding 4000-8000lm work light and power bank with a six-magnet base and 360° articulation.",
+      "key_specs": {"lumens": 8000, "battery_mah": 6000, "recharge": "USB-C", "runtime_h": 30, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "6-magnet articulating base", "benefit": "clamps onto hoods, truck beds and toolboxes at any angle, hands free", "scenarios": ["auto_repair", "garage", "workshop"]},
+        {"point": "Spot + flood, 360°/180° articulation", "benefit": "switch from an inspection spot to a wide flood and aim it anywhere", "scenarios": ["inspection", "camping", "power_outage"]},
+        {"point": "6000mAh with phone charging", "benefit": "runs 5-30 hours and tops up a phone during an outage", "scenarios": ["power_outage", "emergency"]},
+        {"point": "Folds flat with tripod mount", "benefit": "packs small and can sit on a tripod for elevated lighting", "scenarios": ["camping", "workshop"]}
+      ],
+      "use_scenarios": ["auto_repair", "garage", "workshop", "inspection", "camping", "power_outage", "emergency"],
+      "audience": ["mechanic", "diy", "camper", "prepper", "tradesman"],
+      "competitor_analogs": ["Olight", "NEBO"]
+    },
+    {
+      "id": "hokolite-hokoiln-w1-2500lumen-work-light",
+      "one_liner": "A 2500lm 360° magnetic work light and power bank that folds into a tool-bag size.",
+      "key_specs": {"lumens": 2500, "battery_mah": 4000, "recharge": "USB-C", "runtime_h": 10, "weight_g": 385, "waterproof": null},
+      "selling_points": [
+        {"point": "Dual COB panels + side spotlight", "benefit": "wide-area light for bays and benches, plus a spot for tight spaces", "scenarios": ["garage", "workshop", "inspection"]},
+        {"point": "Two magnets, 360° rotation, 180° tilt", "benefit": "aims anywhere and stays put, hands free", "scenarios": ["auto_repair", "garage"]},
+        {"point": "4000mAh, 10h runtime, USB-C", "benefit": "lasts a workday and charges small devices as backup", "scenarios": ["power_outage", "emergency"]},
+        {"point": "0.85 lb, folds into a tool bag", "benefit": "easy to carry and store for jobs on the go", "scenarios": ["camping", "roadside"]}
+      ],
+      "use_scenarios": ["garage", "auto_repair", "workshop", "camping", "power_outage", "emergency"],
+      "audience": ["diy", "mechanic", "camper", "prepper"],
+      "competitor_analogs": ["Olight", "NEBO"]
+    },
+    {
+      "id": "hokolite-6662-2100-lumen-work-light",
+      "one_liner": "A 2100lm magnetic work light with a 270° rotating head and clamp for job sites and repairs.",
+      "key_specs": {"lumens": 2100, "battery_mah": 2600, "recharge": "USB-C", "runtime_h": 7.5, "weight_g": null, "waterproof": "IPX4"},
+      "selling_points": [
+        {"point": "2100lm wide COB", "benefit": "bright area light for job sites and repair tasks", "scenarios": ["garage", "workshop", "auto_repair"]},
+        {"point": "Magnet + clamp, 270° rotating head", "benefit": "sticks or clamps anywhere and aims precisely, hands free", "scenarios": ["inspection", "garage"]},
+        {"point": "IPX4 water-resistant, 7.5h runtime", "benefit": "holds up outdoors and lasts a shift", "scenarios": ["camping", "power_outage"]}
+      ],
+      "use_scenarios": ["garage", "workshop", "auto_repair", "inspection", "camping", "power_outage"],
+      "audience": ["diy", "mechanic", "tradesman", "camper"],
+      "competitor_analogs": ["NEBO"]
+    },
+    {
+      "id": "hokolite-3436-2000-lumen-work-light",
+      "one_liner": "A 2000lm magnetic work light with a 360° gooseneck and hook for workbenches and tight spaces.",
+      "key_specs": {"lumens": 2000, "battery_mah": 5000, "recharge": "USB-C", "runtime_h": 18, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "360° flexible gooseneck", "benefit": "bends into tight, complex spaces to light the exact spot", "scenarios": ["workshop", "garage", "inspection"]},
+        {"point": "Magnetic base + hanging hook", "benefit": "mounts hands-free on metal or hangs overhead", "scenarios": ["garage", "auto_repair"]},
+        {"point": "5000mAh, 5-18h, USB power out", "benefit": "long runtime plus backup charging for devices", "scenarios": ["power_outage", "emergency"]}
+      ],
+      "use_scenarios": ["workshop", "garage", "auto_repair", "inspection", "power_outage"],
+      "audience": ["diy", "mechanic", "tradesman"],
+      "competitor_analogs": ["NEBO", "Olight"]
+    },
+    {
+      "id": "hokolite-favorlite-fw1-500-lumen-work-light",
+      "one_liner": "A compact 500lm AAA-powered magnetic work light with a 360° gooseneck.",
+      "key_specs": {"lumens": 500, "battery_mah": null, "recharge": null, "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "360° gooseneck, magnetic base", "benefit": "bends into narrow spots and sticks hands-free", "scenarios": ["inspection", "workshop", "garage"]},
+        {"point": "Runs on 3 AAA batteries", "benefit": "no charging needed, grab and go", "scenarios": ["emergency", "power_outage"]},
+        {"point": "Zoomable beam", "benefit": "widen for area light or focus for detail", "scenarios": ["inspection"]}
+      ],
+      "use_scenarios": ["inspection", "workshop", "garage", "emergency", "power_outage"],
+      "audience": ["diy", "mechanic", "edc", "homeowner"],
+      "competitor_analogs": []
+    },
+    {
+      "id": "hokolite-6829-1300-lumen-headlamp",
+      "one_liner": "A 1300lm motion-sensor headlamp with a 230° wide beam for night runs, hiking and repairs.",
+      "key_specs": {"lumens": 1300, "battery_mah": null, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "230° wide beam, 1300lm", "benefit": "see more around you without turning your head on the move", "scenarios": ["night_hiking", "hiking", "camping", "garage"]},
+        {"point": "Motion sensor control", "benefit": "wave to switch the light on and off with dirty or full hands", "scenarios": ["auto_repair", "workshop"]}
+      ],
+      "use_scenarios": ["night_hiking", "hiking", "camping", "garage", "auto_repair", "dog_walking"],
+      "audience": ["hiker", "camper", "diy", "mechanic", "outdoor"],
+      "competitor_analogs": ["Fenix", "Nitecore", "Olight"]
+    },
+    {
+      "id": "hokolite-7378-1400-lumen-headlamp",
+      "one_liner": "A 1400lm night-vision headlamp with red and green modes and motion control for hunting and fishing.",
+      "key_specs": {"lumens": 1400, "battery_mah": null, "recharge": "USB-C", "runtime_h": 8, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Red and green light modes", "benefit": "preserve night vision and move quietly on hunts or night fishing", "scenarios": ["hunting", "fishing", "night_hiking"]},
+        {"point": "Dual LED + COB, 1400lm", "benefit": "spot for distance and wide light for tasks in one headlamp", "scenarios": ["camping", "garage"]},
+        {"point": "Motion sensor control", "benefit": "hands-free on/off when your hands are busy", "scenarios": ["auto_repair", "workshop"]}
+      ],
+      "use_scenarios": ["hunting", "fishing", "night_hiking", "camping", "garage", "dog_walking"],
+      "audience": ["hunter", "angler", "hiker", "camper", "outdoor"],
+      "competitor_analogs": ["Fenix", "Nitecore", "Olight"]
+    },
+    {
+      "id": "hokolite-1934-1200-lumen-headlamp",
+      "one_liner": "A 1200lm motion-sensor headlamp with a 210° beam and 5 modes for work and outdoors.",
+      "key_specs": {"lumens": 1200, "battery_mah": 1200, "recharge": "USB-C", "runtime_h": 8, "weight_g": null, "waterproof": "IPX4"},
+      "selling_points": [
+        {"point": "210° wide beam + spotlight", "benefit": "cover the trail and close-up work in one light", "scenarios": ["night_hiking", "hiking", "camping", "garage"]},
+        {"point": "Motion sensor control", "benefit": "hands-free switching for repairs and outdoor tasks", "scenarios": ["auto_repair", "workshop"]},
+        {"point": "IPX4, 2.5-8h, USB-C", "benefit": "reliable outdoors with fast charging", "scenarios": ["camping", "power_outage"]}
+      ],
+      "use_scenarios": ["night_hiking", "hiking", "camping", "garage", "auto_repair", "dog_walking"],
+      "audience": ["hiker", "camper", "diy", "outdoor"],
+      "competitor_analogs": ["Fenix", "Nitecore"]
+    },
+    {
+      "id": "hokolite-eguku-h1-headlamp",
+      "one_liner": "A compact 380lm sensor headlamp with white and warm light for reading and hands-free work.",
+      "key_specs": {"lumens": 380, "battery_mah": null, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "White + warm light, button or sensor control", "benefit": "warm light for reading, bright light for work, all hands-free", "scenarios": ["workshop", "garage", "camping"]},
+        {"point": "Compact and lightweight", "benefit": "comfortable for long wear on the job or on the trail", "scenarios": ["night_hiking", "dog_walking"]}
+      ],
+      "use_scenarios": ["workshop", "garage", "camping", "night_hiking", "dog_walking", "power_outage"],
+      "audience": ["diy", "camper", "hiker", "homeowner"],
+      "competitor_analogs": []
+    },
+    {
+      "id": "hokolite-6680-1000-lumen-headlamp",
+      "one_liner": "A 1000lm waterproof headlamp with a 230° beam and front/rear lighting for camping and work.",
+      "key_specs": {"lumens": 1000, "battery_mah": 1200, "recharge": "USB-C", "runtime_h": 10, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "230° wide beam, 1000lm", "benefit": "full-area light for camping and night tasks", "scenarios": ["camping", "night_hiking", "hiking"]},
+        {"point": "Red rear tail light", "benefit": "extra visibility and safety when walking or riding at night", "scenarios": ["dog_walking", "bike_commute"]},
+        {"point": "4-10h runtime, USB-C", "benefit": "lasts a night out with fast charging", "scenarios": ["camping", "power_outage"]}
+      ],
+      "use_scenarios": ["camping", "night_hiking", "hiking", "dog_walking", "power_outage"],
+      "audience": ["camper", "hiker", "outdoor", "homeowner"],
+      "competitor_analogs": ["Fenix", "Nitecore"]
+    },
+    {
+      "id": "t1-2060lm-hunting-flashlight",
+      "one_liner": "A 2060lm long-throw hunting flashlight with dedicated white, red and green LEDs and no filters to change.",
+      "key_specs": {"lumens": 2060, "battery_mah": 5000, "recharge": "USB-C", "runtime_h": 243, "weight_g": null, "waterproof": "IPX8"},
+      "selling_points": [
+        {"point": "Three colors, no filters to change", "benefit": "switch white/red/green with a side switch instead of swapping filters in the dark", "scenarios": ["hunting", "fishing"]},
+        {"point": "388m long throw, 2060lm white", "benefit": "navigate the trail and scan terrain before dawn or after sunset", "scenarios": ["hunting", "night_hiking"]},
+        {"point": "Dedicated red and green LEDs", "benefit": "check gear or scan field edges without spooking game or killing night vision", "scenarios": ["hunting", "fishing"]},
+        {"point": "21700 5000mAh, up to 243h, IPX8", "benefit": "runs across a whole trip in demanding, wet conditions", "scenarios": ["hunting", "camping", "emergency"]}
+      ],
+      "use_scenarios": ["hunting", "fishing", "night_hiking", "camping", "emergency"],
+      "audience": ["hunter", "angler", "outdoor", "prepper"],
+      "competitor_analogs": ["Fenix", "Nitecore", "Olight", "Streamlight"]
+    },
+    {
+      "id": "hokolite-lexall-e6-2000-lumens-edc-flashlight",
+      "one_liner": "A 2000lm 3-in-1 EDC flashlight with spot, flood and RGB side light and a magnetic tail.",
+      "key_specs": {"lumens": 2000, "battery_mah": 2000, "recharge": "USB-C", "runtime_h": 17, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "3-in-1: spot + flood + RGB side", "benefit": "one light covers long range, close work and a marker or beacon", "scenarios": ["edc", "garage", "inspection"]},
+        {"point": "Magnetic tail", "benefit": "sticks to metal for hands-free work", "scenarios": ["auto_repair", "workshop"]},
+        {"point": "2000mAh, up to 17h, USB-C", "benefit": "long runtime in a pocketable body", "scenarios": ["power_outage", "camping"]}
+      ],
+      "use_scenarios": ["edc", "garage", "auto_repair", "inspection", "camping", "power_outage"],
+      "audience": ["edc", "diy", "mechanic", "camper"],
+      "competitor_analogs": ["Olight", "Nitecore", "Wurkkos"]
+    },
+    {
+      "id": "hokolite-7593-800-lumen-edc-flashlight",
+      "one_liner": "An 800lm clip EDC flashlight with a zoomable spot/flood beam and dual power (rechargeable or AAA).",
+      "key_specs": {"lumens": 800, "battery_mah": null, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Spot + COB flood, zoomable", "benefit": "switch from a 100m throw to close-up wide light", "scenarios": ["edc", "inspection", "garage"]},
+        {"point": "Dual power: USB-C or 2 AAA", "benefit": "never stuck without a charge", "scenarios": ["emergency", "power_outage"]},
+        {"point": "Slim pen-style with steel clip", "benefit": "drops in a pocket or bag and clips for hands-free use", "scenarios": ["edc"]}
+      ],
+      "use_scenarios": ["edc", "inspection", "garage", "emergency", "power_outage", "camping"],
+      "audience": ["edc", "diy", "mechanic", "prepper"],
+      "competitor_analogs": ["Olight", "NEBO", "Streamlight"]
+    },
+    {
+      "id": "hokolite-hopedone-p2-edc-flashlight",
+      "one_liner": "An 800lm pen light with a 90° swivel head and magnetic base for confined inspection work.",
+      "key_specs": {"lumens": 800, "battery_mah": 700, "recharge": "USB-C", "runtime_h": null, "weight_g": 73.5, "waterproof": null},
+      "selling_points": [
+        {"point": "90° swivel head", "benefit": "point the beam into deep or low spots without twisting your hand", "scenarios": ["auto_repair", "inspection", "garage"]},
+        {"point": "Magnetic base or clip", "benefit": "stick it to steel or clip to a pocket, belt or hat, hands free", "scenarios": ["auto_repair", "workshop"]},
+        {"point": "10m drop-rated aluminum", "benefit": "survives rough workdays", "scenarios": ["garage", "workshop"]}
+      ],
+      "use_scenarios": ["auto_repair", "inspection", "garage", "workshop", "edc"],
+      "audience": ["mechanic", "diy", "edc", "tradesman"],
+      "competitor_analogs": ["Olight", "Streamlight"]
+    },
+    {
+      "id": "hokolite-7540-800lm-edc-flashlight",
+      "one_liner": "An 800lm pen-clip EDC flashlight with a 180m beam and USB-C or AAA power.",
+      "key_specs": {"lumens": 800, "battery_mah": null, "recharge": "USB-C", "runtime_h": 9, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "180m beam, 800lm", "benefit": "clear long-range visibility in a pocket light", "scenarios": ["edc", "emergency"]},
+        {"point": "USB-C + AAA backup", "benefit": "charge it or drop in AAA for up to 9h runtime", "scenarios": ["emergency", "power_outage"]},
+        {"point": "Aircraft aluminum, clip", "benefit": "durable and easy to carry every day", "scenarios": ["edc"]}
+      ],
+      "use_scenarios": ["edc", "emergency", "power_outage", "camping", "dog_walking"],
+      "audience": ["edc", "homeowner", "prepper"],
+      "competitor_analogs": ["Olight", "Streamlight"]
+    },
+    {
+      "id": "hokolite-lexall-e1-1600-lumen-edc-flashlight",
+      "one_liner": "A slim 1600lm EDC flashlight with dual spot/flood light and hands-free mounting.",
+      "key_specs": {"lumens": 1600, "battery_mah": null, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Dual light: COB flood + LED spot", "benefit": "wide light for benches and campsites, spot for equipment checks", "scenarios": ["garage", "camping", "inspection"]},
+        {"point": "Slim pocket design, hands-free mount", "benefit": "carry daily and mount it for hands-free use", "scenarios": ["edc", "auto_repair"]}
+      ],
+      "use_scenarios": ["edc", "garage", "auto_repair", "camping", "inspection", "power_outage"],
+      "audience": ["edc", "diy", "mechanic", "camper"],
+      "competitor_analogs": ["Olight", "Wurkkos"]
+    },
+    {
+      "id": "hokolite-5503-1500-lumen-camping-lantern",
+      "one_liner": "A 1500lm 360° camping lantern with up to 75h runtime and a hangable design for outages.",
+      "key_specs": {"lumens": 1500, "battery_mah": null, "recharge": null, "runtime_h": 75, "weight_g": null, "waterproof": "IPX4"},
+      "selling_points": [
+        {"point": "360° 1500lm output", "benefit": "light a whole campsite or room from one lantern", "scenarios": ["camping", "power_outage", "emergency"]},
+        {"point": "Up to 75h on replaceable batteries", "benefit": "runs through a long trip or a multi-day outage", "scenarios": ["power_outage", "emergency", "van_life"]},
+        {"point": "Hangable and IPX4", "benefit": "hang it in a tent or van and leave it in the rain", "scenarios": ["camping", "van_life"]}
+      ],
+      "use_scenarios": ["camping", "power_outage", "emergency", "van_life", "backpacking"],
+      "audience": ["camper", "prepper", "homeowner", "outdoor"],
+      "competitor_analogs": ["NEBO", "Coleman"]
+    },
+    {
+      "id": "hokolite-6663-3000-lumen-camping-lantern",
+      "one_liner": "A 3000lm rechargeable 360° camping lantern with power-bank function and dual hooks.",
+      "key_specs": {"lumens": 3000, "battery_mah": 4400, "recharge": "USB-C", "runtime_h": 10, "weight_g": null, "waterproof": "IPX4"},
+      "selling_points": [
+        {"point": "3000lm 360° COB", "benefit": "bright area light for camping and emergencies", "scenarios": ["camping", "power_outage", "emergency"]},
+        {"point": "4400mAh + power bank", "benefit": "runs 4-10h and charges your phone as backup", "scenarios": ["power_outage", "emergency"]},
+        {"point": "Dual hooks, IPX4", "benefit": "hang it anywhere, rain or shine", "scenarios": ["camping", "van_life"]}
+      ],
+      "use_scenarios": ["camping", "power_outage", "emergency", "van_life"],
+      "audience": ["camper", "prepper", "homeowner"],
+      "competitor_analogs": ["NEBO"]
+    },
+    {
+      "id": "hokolite-7430-3000-lumen-camping-lantern",
+      "one_liner": "A 3000lm camping lantern with spot + flood output, magnetic base and tripod mount.",
+      "key_specs": {"lumens": 3000, "battery_mah": 4000, "recharge": "USB-C", "runtime_h": 12, "weight_g": null, "waterproof": "IP44"},
+      "selling_points": [
+        {"point": "LED spot + COB flood, 3000lm", "benefit": "long-range and wide light from one lantern", "scenarios": ["camping", "power_outage"]},
+        {"point": "Magnetic base + tripod mount", "benefit": "mount hands-free on metal or on a tripod", "scenarios": ["camping", "garage"]},
+        {"point": "4000mAh, 4-12h, power out", "benefit": "lasts the night and doubles as a phone charger", "scenarios": ["power_outage", "emergency"]}
+      ],
+      "use_scenarios": ["camping", "power_outage", "emergency", "garage", "van_life"],
+      "audience": ["camper", "prepper", "diy", "outdoor"],
+      "competitor_analogs": ["NEBO"]
+    },
+    {
+      "id": "hokolite-1487-1800-lumen-camping-lantern",
+      "one_liner": "An 1800lm telescopic camping lantern with a 10000mAh power bank and RGB modes.",
+      "key_specs": {"lumens": 1800, "battery_mah": 10000, "recharge": "USB-C", "runtime_h": 60, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Telescopic to 45in, 180° head", "benefit": "raise it high for wide coverage and angle the head where needed", "scenarios": ["camping", "van_life", "power_outage"]},
+        {"point": "10000mAh, 6-60h, power bank", "benefit": "runs for days and charges devices in an outage", "scenarios": ["power_outage", "emergency"]},
+        {"point": "3 color temps + RGB", "benefit": "set the mood or a bright work light", "scenarios": ["camping", "van_life"]}
+      ],
+      "use_scenarios": ["camping", "van_life", "power_outage", "emergency", "backpacking"],
+      "audience": ["camper", "prepper", "outdoor", "homeowner"],
+      "competitor_analogs": ["NEBO", "Coleman"]
+    },
+    {
+      "id": "hokolite-6740-6000-lumens-flashlight",
+      "one_liner": "A 6000lm waterproof spotlight reaching 900m, with a power bank and tripod mount.",
+      "key_specs": {"lumens": 6000, "battery_mah": 6600, "recharge": "USB-C", "runtime_h": null, "weight_g": null, "waterproof": "IP66"},
+      "selling_points": [
+        {"point": "6000lm, 900m beam", "benefit": "light up far across a field, road, or water at night", "scenarios": ["hunting", "home_security", "emergency", "night_hiking"]},
+        {"point": "6600mAh + power bank", "benefit": "runs long and charges a phone as backup", "scenarios": ["power_outage", "emergency"]},
+        {"point": "Tripod mount + top stand, IP66", "benefit": "set it up hands-free in harsh weather", "scenarios": ["home_security", "emergency"]}
+      ],
+      "use_scenarios": ["hunting", "home_security", "emergency", "power_outage", "night_hiking", "camping"],
+      "audience": ["prepper", "hunter", "homeowner", "outdoor", "first_responder"],
+      "competitor_analogs": ["Olight", "Fenix", "Imalent"]
+    },
+    {
+      "id": "hokolite-1569-1800-lumens-flashlight",
+      "one_liner": "An 1800lm neck-worn dual light with detachable magnetic lights and a gooseneck.",
+      "key_specs": {"lumens": 1800, "battery_mah": null, "recharge": "USB-C", "runtime_h": 3, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Neck-worn gooseneck, dual detachable lights", "benefit": "wear it hands-free and split the lights for two spots", "scenarios": ["dog_walking", "inspection", "garage"]},
+        {"point": "Magnetic detachable heads", "benefit": "attach the lights to metal surfaces when you need to", "scenarios": ["auto_repair", "workshop"]}
+      ],
+      "use_scenarios": ["dog_walking", "inspection", "garage", "auto_repair", "night_hiking"],
+      "audience": ["edc", "diy", "mechanic", "homeowner"],
+      "competitor_analogs": ["Olight"]
+    },
+    {
+      "id": "hokolite-6865-1500-lumen-bike-light",
+      "one_liner": "A 1500lm front/rear bike light set with up to 8h runtime and 360° visibility.",
+      "key_specs": {"lumens": 1500, "battery_mah": 1200, "recharge": "USB", "runtime_h": 8, "weight_g": null, "waterproof": null},
+      "selling_points": [
+        {"point": "Front + rear light set", "benefit": "see the road and be seen from behind for 360° safety", "scenarios": ["bike_commute"]},
+        {"point": "1500lm headlight, up to 8h", "benefit": "bright enough for road and trail riding, lasts the ride", "scenarios": ["bike_commute"]},
+        {"point": "Aluminum, waterproof, multi-mode", "benefit": "handles all weather with modes for different conditions", "scenarios": ["bike_commute"]}
+      ],
+      "use_scenarios": ["bike_commute"],
+      "audience": ["cyclist", "outdoor"],
+      "competitor_analogs": ["Cygolite", "NiteRider"]
+    },
+    {
+      "id": "hokolite-5185-1400-lumen-bike-light",
+      "one_liner": "A 1400lm bike light set with a 120dB horn for extra safety on the road.",
+      "key_specs": {"lumens": 1400, "battery_mah": 1200, "recharge": "USB", "runtime_h": null, "weight_g": null, "waterproof": "IPX4"},
+      "selling_points": [
+        {"point": "120dB built-in horn", "benefit": "alert pedestrians and cars without a separate bell", "scenarios": ["bike_commute"]},
+        {"point": "1400lm beam, about 492 ft", "benefit": "clear night visibility on the road", "scenarios": ["bike_commute"]},
+        {"point": "Front + rear set, IPX4", "benefit": "full visibility and all-weather reliability", "scenarios": ["bike_commute"]}
+      ],
+      "use_scenarios": ["bike_commute"],
+      "audience": ["cyclist"],
+      "competitor_analogs": ["Cygolite", "NiteRider"]
+    }
+  ]
+}
