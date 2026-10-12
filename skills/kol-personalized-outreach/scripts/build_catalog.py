@@ -18,6 +18,9 @@ build_catalog.py — 产品库构建（确定性脚本，属「手」）
     --collections work-lights,headlamps,edc-flashlights,camping-lanterns,best-sellers,new-arrivals \
     --inbox products/raw \
     --out products/catalog.json
+
+路径说明：`products/raw`、`products/catalog.json` 均相对 **skill 目录**（产品库打包在 skill 内，
+随 `npx skills add` 一起分发）。也可传任意绝对路径覆盖。
 """
 import argparse
 import csv

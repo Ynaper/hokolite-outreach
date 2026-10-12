@@ -30,25 +30,33 @@ Then, in your agent, just hand it a link:
 
 ---
 
-## What you also need
+## After install
 
-`npx skills add` installs **the skill only**. To actually match products, copy the `products/`
-folder from this repo into your **project root**:
+The product catalog ships **inside the skill**, so `npx skills add` gives you a fully working
+skill with no extra steps:
 
 ```
 <your-project>/
-├── .claude/skills/kol-personalized-outreach/   ← installed by npx
-└── products/
-    ├── catalog.json
-    ├── brand-facts.md
-    └── semantic-fields.json
+└── .claude/skills/kol-personalized-outreach/
+    ├── SKILL.md
+    ├── references/
+    ├── scripts/
+    └── products/            ← bundled: catalog + brand facts
+        ├── catalog.json
+        ├── brand-facts.md
+        └── semantic-fields.json
 ```
 
-- **Brand facts** — edit `products/brand-facts.md` and replace `[YOUR NAME]` / `[TITLE]`
-  with a real name and title. This is a CAN-SPAM requirement and affects how the email reads.
+- **Brand facts** — edit `products/brand-facts.md` (inside the installed skill) and replace
+  `[YOUR NAME]` / `[TITLE]` with a real name and title. This is a CAN-SPAM requirement and
+  affects how the email reads.
+- **Your own catalog** — swap `products/catalog.json` for your brand's, or rebuild it with
+  `scripts/build_catalog.py --shopify <your-site>/products.json`.
 - **Sending (optional)** — SMTP setup lives in `references/sending.md`.
   Config template: `references/send-config.example.json`
   (copy it to `<project>/.secrets/send-config.json`). Never commit real credentials.
+
+> `output/` and `.secrets/` are resolved relative to your **project root**, not the skill dir.
 
 ---
 
@@ -56,12 +64,11 @@ folder from this repo into your **project root**:
 
 ```
 hokolite-outreach/
-├── skills/kol-personalized-outreach/     # the skill (discovered by `npx skills add`)
-│   ├── SKILL.md                          # single contract + 7-step workflow
-│   ├── references/                       # 9 spec docs + send-config.example.json
-│   └── scripts/                          # build_catalog.py / check_email.py / send_emails.py
-├── products/                             # HOKOLITE product catalog + brand facts
-└── README-安装说明.txt                    # original Chinese install notes
+└── skills/kol-personalized-outreach/     # the skill (discovered by `npx skills add`)
+    ├── SKILL.md                          # single contract + 7-step workflow
+    ├── references/                       # 9 spec docs + send-config.example.json
+    ├── scripts/                          # build_catalog.py / check_email.py / send_emails.py
+    └── products/                         # bundled HOKOLITE catalog + brand facts
 ```
 
 ## Notes

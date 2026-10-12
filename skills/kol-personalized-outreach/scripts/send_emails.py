@@ -60,16 +60,25 @@ PROVIDERS = {
 }
 
 def _find_workspace():
-    """定位项目根（含 .workbuddy-ai/ 或 products/catalog.json 的目录）。
-    可用环境变量 KOL_WORKSPACE 覆盖；探测失败时按 skill 目录层级推导。"""
+    """定位**项目根**（放 .secrets/ 与 output/ 的地方）。
+    可用环境变量 KOL_WORKSPACE 覆盖。
+
+    按标准安装布局**结构推导**，不做无界向上查找 —— 否则用户主目录的 ~/.workbuddy-ai
+    会被误判成项目根。标准布局：
+        <proj>/<agent>/skills/<skill>/scripts/x.py
+        parents: [0]=scripts [1]=<skill> [2]=skills [3]=<agent> [4]=<proj>
+    其中 <agent> 为 .claude / .workbuddy-ai / .agents … 等（隐藏目录的父级才是项目根）。
+
+    注意：产品库已打包在 skill 目录内（<skill>/products/），**不再**作为项目根的标志。
+    """
     env = os.environ.get("KOL_WORKSPACE")
     if env:
         return Path(env)
     here = Path(__file__).resolve()
-    for p in here.parents:
-        if (p / ".workbuddy-ai").is_dir() or (p / "products" / "catalog.json").exists():
-            return p
-    # <ws>/.workbuddy-ai/skills/<skill>/scripts/x.py -> parents[4]
+    if len(here.parents) > 3 and here.parents[2].name == "skills":
+        agent_dir = here.parents[3]          # .claude / .workbuddy-ai / .agents …
+        return agent_dir.parent if agent_dir.name.startswith(".") else agent_dir
+    # 非标准布局：兜底用固定层级（脚本位于 <skill>/scripts/）
     return here.parents[4] if len(here.parents) > 4 else here.parent
 
 

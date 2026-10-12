@@ -10,13 +10,14 @@ HOKOLITE 达人开发信 Skill · kol-personalized-outreach v1.0.0
 
 【包内结构】
   README-安装说明.txt                  本文件
-  skills/kol-personalized-outreach/    skill 本体
+  skills/kol-personalized-outreach/    skill 本体（整个目录即分发单元）
       ├── SKILL.md                     主文件（唯一契约 + 工作流）
       ├── references/                  9 个规范文档（邮件规格/匹配规则/平台适配/输出 schema…）
-      └── scripts/                     3 个脚本（建产品库 / 硬门校验 / SMTP 发送）
-  products/catalog.json                HOKOLITE 产品库（67 个产品，已构建好，运行时只读）
-  products/brand-facts.md              品牌事实（署名/口吻/禁用声明）★需要填写
-  products/semantic-fields.json        产品语义字段（卖点/场景，供重建产品库用）
+      ├── scripts/                     3 个脚本（建产品库 / 硬门校验 / SMTP 发送）
+      └── products/                    产品库（随 skill 打包，装完即用）
+          ├── catalog.json             HOKOLITE 产品库（67 个产品，运行时只读）
+          ├── brand-facts.md           品牌事实（署名/口吻/禁用声明）★需要填写
+          └── semantic-fields.json     产品语义字段（卖点/场景，供重建产品库用）
 
 【安装】
 本 skill 遵循 Agent Skills 开放标准（SKILL.md + YAML frontmatter），
@@ -31,7 +32,7 @@ HOKOLITE 达人开发信 Skill · kol-personalized-outreach v1.0.0
         <你的项目>/.workbuddy-ai/skills/ 下
 
 【安装后必须配置】
-1. 品牌署名 —— 编辑 products/brand-facts.md，把 [YOUR NAME] / [TITLE]
+1. 品牌署名 —— 编辑 skill 目录内的 products/brand-facts.md，把 [YOUR NAME] / [TITLE]
    换成真实姓名与职位。这是合规要求（CAN-SPAM），也直接影响邮件观感。
 
 2. SMTP 凭据 —— 只有要真发邮件时才需要。在包根目录建 .secrets/send-config.json
@@ -62,5 +63,6 @@ HOKOLITE 达人开发信 Skill · kol-personalized-outreach v1.0.0
 Python 3（仅标准库，无第三方依赖）。
 
 【跨平台说明】
-所有路径均为相对路径：scripts/… 相对 skill 目录；products/…、output/… 相对项目根。
+所有路径均为相对路径：scripts/…、references/…、products/… 相对 skill 目录；
+output/…、.secrets/… 相对项目根。
 脚本会自动探测项目根，也可用环境变量 KOL_WORKSPACE 覆盖。换机器无需改路径。

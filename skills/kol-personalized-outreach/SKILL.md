@@ -8,7 +8,7 @@ description: Use when the user gives a creator profile link (YouTube / Instagram
 
 # 达人个性化开发邮件 · KOL Personalized Outreach
 
-> **路径约定**：`scripts/…` 相对本 skill 目录；`products/…`、`output/…`、`.secrets/…` 相对项目根目录。脚本会自动探测项目根（可用环境变量 `KOL_WORKSPACE` 覆盖），因此换机器或换宿主（WorkBuddy / Claude Code / Codex …）都无需改路径。
+> **路径约定**：`scripts/…`、`references/…`、`products/…` 均相对**本 skill 目录**（产品库已打包在 skill 内，随 `npx skills add` 自动安装）；`output/…`、`.secrets/…` 相对**项目根目录**。脚本会自动探测项目根（可用环境变量 `KOL_WORKSPACE` 覆盖），因此换机器或换宿主（WorkBuddy / Claude Code / Codex …）都无需改路径。
 
 ## 唯一契约：输入链接 → 输出邮件
 
@@ -42,7 +42,7 @@ description: Use when the user gives a creator profile link (YouTube / Instagram
 
 ## 前置条件
 
-1. 产品库存在：`products/catalog.json`。若不存在或需更新，先跑：
+1. 产品库：`products/catalog.json`（**已随 skill 打包，开箱可用**）。若需更新/换成自家产品库，先跑：
    ```bash
    python scripts/build_catalog.py \
      --shopify https://hokolite.com/products.json \
@@ -50,7 +50,7 @@ description: Use when the user gives a creator profile link (YouTube / Instagram
      --inbox products/raw \
      --out products/catalog.json
    ```
-2. 品牌事实：`products/brand-facts.md`（署名、口吻、禁用声明）。缺失则邮件署名用 `[YOUR NAME]` 占位符。
+2. 品牌事实：`products/brand-facts.md`（署名、口吻、禁用声明）。**署名现为 `[YOUR NAME]` / `[TITLE]` 占位符，正式发信前必须替换成真实姓名与职位。**
 
 ## 工作流
 
@@ -142,15 +142,15 @@ python scripts/send_emails.py --json output/outreach/<批次>.json \
 | **SMTP 凭据** | 不在 skill 内（在 `.secrets/send-config.json`） | 别人拿不到你的密码，需自建 `.secrets/send-config.json` 或设环境变量 `SMTP_PASS` |
 | **工作目录** | 脚本自动探测项目根，或用环境变量 `KOL_WORKSPACE` 覆盖 | **无需手动改路径** |
 | **品牌** | 全文的 `HOKOLITE` | 换成对方品牌 |
-| **产品库** | `products/catalog.json`（HOKOLITE 专属，67 个产品） | 换对方产品库；用 `build_catalog.py --shopify <对方站点>/products.json` 重建 |
-| **品牌事实** | `products/brand-facts.md` | 署名 / 口吻 / 禁用声明换成对方的 |
+| **产品库** | `products/catalog.json`（HOKOLITE 专属，67 个产品，**在 skill 目录内**） | 换对方产品库；用 `build_catalog.py --shopify <对方站点>/products.json` 重建 |
+| **品牌事实** | `products/brand-facts.md`（**在 skill 目录内**） | 署名 / 口吻 / 禁用声明换成对方的 |
 
 **绝对不要打进包里的东西**：
 - `.secrets/`（含 SMTP 密码）
 - `output/outreach/*.json` 与 `send-log.jsonl`（含**达人真实资料 + 收发件地址**）
 - `.workbuddy-ai/memory/`（工作记录）
 
-**打包范围**：只打 `skills/kol-personalized-outreach/` 这一个目录；若连产品库一起给，另附 `products/catalog.json` + `products/brand-facts.md`。
+**打包范围**：只打 `skills/kol-personalized-outreach/` 这一个目录即可 —— 产品库（`products/`）已在其中，**无需另附**。别人 `npx skills add` 装完即用。
 
 ### 跨宿主兼容（Agent Skills 开放标准）
 

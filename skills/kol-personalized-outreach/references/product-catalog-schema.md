@@ -1,6 +1,6 @@
 # 产品库规格 · Product Catalog Schema
 
-产品库是「产品匹配」和「邮件卖点提取」的数据源。文件：`products/catalog.json`。
+产品库是「产品匹配」和「邮件卖点提取」的数据源。文件：`products/catalog.json`（**位于 skill 目录内**，随 skill 一起分发，装完即用）。
 
 字段分两组：**客观字段**（`build_catalog.py` 抓取/归一化）+ **语义字段**（agent 补，需理解语义）。
 

@@ -85,7 +85,7 @@
 
 ## 6. 署名
 
-从 `products/brand-facts.md` 取姓名/职位。**未提供时用占位符**：
+从 `products/brand-facts.md`（**在 skill 目录内**）取姓名/职位。**未提供时用占位符**：
 
 ```
 Best,
